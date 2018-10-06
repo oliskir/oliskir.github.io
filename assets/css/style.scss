@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-size:18px;
+  color:#000;
+}
+
+code {
+  background: none;
+  color: black;
+  text-shadow: 1px 1px 0px #bbb;
+}
