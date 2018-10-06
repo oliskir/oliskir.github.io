@@ -1,2 +1,21 @@
-name: Oliver's Personal Homepage
+title: Oliver's Personal Homepage
+email: "oliver.kirsebom@gmail.com"
+description: >
+  At the interface between digital and analog worlds
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: 
+owner_name: Oliver Kirsebom
+github_username:  oliskir
+google_scholar_link: "https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en"
+#google_analytics: UA-92210578-1
+
+# Build settings
 markdown: kramdown
+theme: jekyll-theme-leap-day
+plugins:
+- jekyll-feed
+- jekyll-email-protect
+exclude:
+- Gemfile
+- Gemfile.lock
