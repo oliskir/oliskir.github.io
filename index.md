@@ -2,8 +2,8 @@
 layout: default
 ---
 
-* **code:** [github.com/git-steb](https://github.com/git-steb)
 * **email:** {% include protect-email.include email=site.email %}
+* **orcid:** [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)
 
 # [](#header-1) Research topics
 
@@ -11,7 +11,3 @@ layout: default
 
 {% include post-list.include %}
 
-# [](#header-1) About
-
-This site was built by Oliver Kirsebom using Jekyll with free hosting on GitHub Pages.
-You can adapt [the code](https://github.com/oliskir/oliskir.github.io) to your own content by replacing a few files.
