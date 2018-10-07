@@ -5,6 +5,7 @@ layout: default
 Oliver Sølund Kirsebom\
 PhD Physics\
 Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/)\
+[Academic CV]()
 * **email:** {% include protect-email.include email=site.email %}
 * **orcid:** [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)
 
