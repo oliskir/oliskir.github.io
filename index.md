@@ -2,12 +2,13 @@
 layout: default
 ---
 
-Oliver Sølund Kirsebom\
-PhD Physics\
-Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/)\
-[Academic CV]()
+Oliver Sølund Kirsebom<br/>
+PhD Physics<br/>
+Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/)<br/>
 * **email:** {% include protect-email.include email=site.email %}
 * **orcid:** [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)
+* [Academic CV]()
+* [LinkedIn](www.linkedin.com/in/okayphysics)
 
 # [](#header-1) Brief bio
 
@@ -23,8 +24,8 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 
 Below is a fairly complete list of presentations I have given.
  
-* 2018.05.24\
-  [Observation of the ground state transition in the beta decay of 20F](https://indico.cern.ch/event/686407/contributions/3001378/attachments/1655269/2649510/okirsebom_svalbard.pdf)\
-  14th Nordic Meeting on Nuclear Physics\
+* 2018.05.24<br/>
+  [Observation of the ground state transition in the beta decay of 20F](https://indico.cern.ch/event/686407/contributions/3001378/attachments/1655269/2649510/okirsebom_svalbard.pdf)<br/>
+  14th Nordic Meeting on Nuclear Physics<br/>
   Longyearbyen, Svalbard
 
