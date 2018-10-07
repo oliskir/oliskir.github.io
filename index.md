@@ -10,6 +10,8 @@ LinkedIn: [linkedin.com/in/okayphysics](www.linkedin.com/in/okayphysics)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
 email: {% include protect-email.include email=site.email %}
 
+[sdm-framework]: {{ site.baseurl }}/assets/img/oli-portrait-JYFL-2016.jpg "Me"
+
 
 # [](#header-1) Bio
 
