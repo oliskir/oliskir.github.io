@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[me]: {{ site.baseurl }}/assets/img/oli-portrait-JYFL-2016.jpg "Me"
+
 Oliver Sølund Kirsebom<br/>
 PhD Physics<br/>
 Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/)<br/>
@@ -10,7 +12,7 @@ LinkedIn: [linkedin.com/in/okayphysics](www.linkedin.com/in/okayphysics)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
 email: {% include protect-email.include email=site.email %}
 
-[sdm-framework]: {{ site.baseurl }}/assets/img/oli-portrait-JYFL-2016.jpg "Me"
+![][me]{: .center-image }
 
 
 # [](#header-1) Bio
