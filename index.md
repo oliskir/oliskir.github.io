@@ -37,6 +37,6 @@ Below is a fairly complete list of presentations I have given.
   Colloquium at Saint Mary's University<br/> 
   2018.01.12, Halifax, Canada
   
-* [Improved experimental determination of the branching ratio for \beta-delayed \alpha decay of <sup>16</sup>N](https://docs.google.com/presentation/d/1FOwCLzzkBtT3RjqxL_szR-p3V4Lj1JnB0QDvN5ir9Mg/edit?usp=sharing)
+* [Improved experimental determination of the branching ratio for $\beta$-delayed $\alpha$ decay of <sup>16</sup>N](https://docs.google.com/presentation/d/1FOwCLzzkBtT3RjqxL_szR-p3V4Lj1JnB0QDvN5ir9Mg/edit?usp=sharing)
   Nuclear Physics in Astrophysics VIII
   2017.06.21, Catania, Italy]
