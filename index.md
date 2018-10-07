@@ -29,3 +29,6 @@ Below is a fairly complete list of presentations I have given.
   14th Nordic Meeting on Nuclear Physics<br/>
   2018.05.24, Longyearbyen, Svalbard
 
+* [Electron capture on 20Ne and the ultimate fate of medium-mass stars](https://drive.google.com/file/d/1H6GMr45f-J2KBftb1G1kTXotggblRmk3/view?usp=sharing)<br/>
+  Colloquium at Saint Mary's University<br/> 
+  2018.01.12, Halifax, Canada
