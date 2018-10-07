@@ -28,7 +28,11 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 # [](#header-1) Presentations
 
 Below is a fairly complete list of presentations I have given.
- 
+
+* [Deep learning applied to underwater acoustic data](https://meridian.cs.dal.ca/wp-content/uploads/2018/09/okirsebom_saopaulo_20180905.pdf)<br/>
+  Workshop on Analysis of Acoustic Landscapes<br/>
+  2018.09.05, ICMC, University of São Paulo, Brazil
+  
 * [Observation of the ground state transition in the beta decay of <sup>20</sup>F](https://indico.cern.ch/event/686407/contributions/3001378/attachments/1655269/2649510/okirsebom_svalbard.pdf)<br/>
   14th Nordic Meeting on Nuclear Physics<br/>
   2018.05.24, Longyearbyen, Svalbard
