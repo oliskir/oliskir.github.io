@@ -7,7 +7,7 @@ layout: default
 Oliver Sølund Kirsebom<br/>
 PhD Physics<br/>
 Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/)<br/>
-[Academic CV]({{ site.url }}/assets/pdf/cv.pdf)<br/>
+[Academic CV]({{ site.baseurl }}/assets/pdf/cv.pdf)<br/>
 LinkedIn: [linkedin.com/in/okayphysics](www.linkedin.com/in/okayphysics)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
 email: {% include protect-email.include email=site.email %}
@@ -17,7 +17,7 @@ email: {% include protect-email.include email=site.email %}
 
 # [](#header-1) Bio
 
-I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_Kirsebom.pdf) in Nuclear Physics from [Aarhus University](http://phys.au.dk/), Denmark. Between 2010 and 2018 I was employed as Postdoc at [TRIUMF](https://www.triumf.ca/) (2010-13) and as Assitant Professor at [Aarhus University](http://phys.au.dk/) (2013-18) on a grant from the [Villum Foundation](https://veluxfoundations.dk/en). During these years, I was a frequent visitor at large international accelerator laboratories such as [CERN](https://home.cern/) in Switzerland and led a number succesful experimental collaborations. My research focused on the study of nuclear properties important to our understanding of stars, stellar evolution and the origin of the elements. Eager to put my analytical skills and knowledge of physics to use in a more applied setting, I took up a new position in June 2018 as acoustic data analyst at [MERIDIAN](https://meridian.cs.dal.ca/).
+I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_Kirsebom.pdf) in Nuclear Physics from [Aarhus University](http://phys.au.dk/), Denmark. Between 2010 and 2018 I was employed as Postdoc at [TRIUMF](https://www.triumf.ca/) (2010-13) and as Assitant Professor at [Aarhus University](http://phys.au.dk/) (2013-18) on a grant from the [Villum Foundation](https://veluxfoundations.dk/en). During these years, I was a frequent visitor at large international accelerator laboratories such as [CERN](https://home.cern/) in Switzerland and led a number successful experimental collaborations. My research focused on the study of nuclear properties important to our understanding of stars, stellar evolution and the origin of the elements. Eager to put my analytical skills and knowledge of physics to use in a more applied setting, I took up a new position in June 2018 as acoustic data analyst at [MERIDIAN](https://meridian.cs.dal.ca/).
 
 
 # [](#header-1) Publications
@@ -42,3 +42,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 * [Improved experimental determination of the branching ratio for $\beta$-delayed $\alpha$ decay of <sup>16</sup>N](https://docs.google.com/presentation/d/1FOwCLzzkBtT3RjqxL_szR-p3V4Lj1JnB0QDvN5ir9Mg/edit?usp=sharing)<br/>
   Nuclear Physics in Astrophysics VIII<br/>
   2017.06.21, Catania, Italy
+  
+* [Electron capture on <sup>20</sup>Ne and the ultimate fate of stars in the mass range 8--10$M_{\odot}$](https://docs.google.com/presentation/d/1oDzplF7Wc3p91nw8pcE_jXVZk3k94bzezy8iibs3vGo/edit?usp=sharing)
+  61st DAE-BRNS Symposium on Nuclear Physics
+  2016.12.06, Saha Institute of Nuclear Physics, Kolkata, India
