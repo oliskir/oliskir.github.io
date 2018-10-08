@@ -7,7 +7,7 @@ layout: default
 Oliver Sølund Kirsebom<br/>
 PhD Physics<br/>
 Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/)<br/>
-[Academic CV]()<br/>
+[Academic CV]({{ site.url }}/assets/pdf/cv.pdf)<br/>
 LinkedIn: [linkedin.com/in/okayphysics](www.linkedin.com/in/okayphysics)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
 email: {% include protect-email.include email=site.email %}
@@ -26,8 +26,6 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 
 
 # [](#header-1) Presentations
-
-Below is a fairly complete list of presentations I have given.
 
 * [Deep learning applied to underwater acoustic data](https://meridian.cs.dal.ca/wp-content/uploads/2018/09/okirsebom_saopaulo_20180905.pdf)<br/>
   Workshop on Analysis of Acoustic Landscapes<br/>
