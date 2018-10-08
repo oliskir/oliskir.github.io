@@ -43,6 +43,10 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   Nuclear Physics in Astrophysics VIII<br/>
   2017.06.21, Catania, Italy
   
-* [Electron capture on <sup>20</sup>Ne and the ultimate fate of stars in the mass range 8--10$M_{\odot}$](https://docs.google.com/presentation/d/1oDzplF7Wc3p91nw8pcE_jXVZk3k94bzezy8iibs3vGo/edit?usp=sharing)
-  61st DAE-BRNS Symposium on Nuclear Physics
+* [Electron capture on <sup>20</sup>Ne and the ultimate fate of stars in the mass range 8--10$M_{\odot}$](https://docs.google.com/presentation/d/1oDzplF7Wc3p91nw8pcE_jXVZk3k94bzezy8iibs3vGo/edit?usp=sharing)<br/>
+  61st DAE-BRNS Symposium on Nuclear Physics<br/>
   2016.12.06, Saha Institute of Nuclear Physics, Kolkata, India
+  
+* [Experimental Nuclear Astrophysics](https://docs.google.com/presentation/d/1JrhaXjAt2JkSlCJiWZX1Uc59hCGUf8jhmqJGCzBRqeY/edit?usp=sharing)<br/>
+  Orientation program for the 61st DAE-BRNS Symposium on Nuclear Physics<br/>
+  2016.12.04, Saha Institute of Nuclear Physics, Kolkata, India
