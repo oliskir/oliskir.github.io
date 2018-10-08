@@ -67,6 +67,10 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   2016.05.11, PG Seminar, 
   ISOLDE, CERN, Switzerland
   
+* [Kerner og stjerner](https://docs.google.com/presentation/d/1GmXf0rlD3u2htwhbrrucbHWmwu2Q0YDHH9qJg0Zy09w/edit?usp=sharing)<br/>
+  2016.03.11, Fredagsforedrag, Aarhus University, Denmark<br/>
+  <it>A 30-minute talk aimed at 2nd and 3rd year physics students on current research trends in nuclear astrophysics, focusing on the activities of the nuclear physics group at Aarhus University.</it>
+
 * [Nuclear astrophysics at the precision frontier](https://docs.google.com/presentation/d/16FuYUVvA2xOz1ElQ6SOju5zu_2QMVkpyAt9LYCPFua4/edit?usp=sharing)<br/>
   2016.03.15, VIP seminar, 
   Vejle Fjord Hotel, Denmark
@@ -78,8 +82,30 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 * [How radioactive targets can help us gain further insights into the properties and structure of light nuclei](https://docs.google.com/presentation/d/1KN9E6AdZnbLvrVimgF5uVQwImNMXamSvu8oCbv7uuy0/edit?usp=sharing)<br/>
   2015.11.25, CHANDA workshop on target preparation, 
   PSI, Switzerland
+
+* [Universets smeltedigler](https://docs.google.com/presentation/d/1CY-Q0z4-5zr3aWzACOAqQXU6a8GXkvBc1_iGntyKYHQ/edit?usp=sharing)<br/>
+  29.10.2015, UNF foredrag, Aarhus University, Denmark<br/>
+  <it>A lecture for the Danish Youth Science Association (UNF) on the formation of the chemical elements.</it>
   
 * [Efforts towards an experimental determination of the strength of the 2nd-forbidden transition between the ground states of <sup>20</sup>F and <sup>20</sup>Ne](https://docs.google.com/presentation/d/1geVHTsiVmb9GdSaMBMl-4DP3wXmWmzwx3wt4bJK7v-Y/edit?usp=sharing)<br/>
-  2015.10.07, NuGrid workshop: Nucleosynthesis away from stability
+  2015.10.07, NuGrid workshop: Nucleosynthesis away from stability, 
   Goethe University Frankfurt, Germany
+  
+* [Using gamma decay to study low-lying resonances in <sup>12</sup>C](https://docs.google.com/presentation/d/1PIdqB1795PO-nqvSb2hPf2nwpaZkCJmHJDVVzcYLdcw/edit?usp=sharing)<br/>
+  2015.09.17, COMEX5
+  Krakow, Poland
+  
+* [Nuclear astrophysics at ISOLDE](https://docs.google.com/presentation/d/13coeb6XqDN2_enH2Dteornh5aylSZpQEdbbxmSEJmo4/edit?usp=sharing)<br/>
+  2015.08.19, NICE workshop, 
+  SDU, Denmark
 
+* [Multi-particle decay studies](https://docs.google.com/presentation/d/1J5_-f8StRVwNNL5V_97lkMRjdYqoT7Fbhrw-IOkug78/edit?usp=sharing)<br/>
+  2015.04.16, 13th Nordic Meeting on Nuclear Physics, 
+  Saariselkä, Finland
+  
+* [Grundstoffernes oprindelse](https://docs.google.com/presentation/d/1hI9hcHSDQ9b4ZHeXp24Uz__ON5rr6s5wunVKo__Cdbk/edit?usp=sharing)<br/>
+  2015.03.25, Foredrag, Aarhus University, Denmark<br/>
+  <it>A lecture on the formation of the chemical elements for high-school students</it>
+
+<br/>
+More to be added soon ...
