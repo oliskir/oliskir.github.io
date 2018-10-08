@@ -27,8 +27,8 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 
 # [](#header-1) Presentations
 
-* [Deep learning applied to underwater acoustic data](https://meridian.cs.dal.ca/wp-content/uploads/2018/09/okirsebom_saopaulo_20180905.pdf), 
-  Workshop on Analysis of Acoustic Landscapes<br/>
+* [Deep learning applied to underwater acoustic data](https://meridian.cs.dal.ca/wp-content/uploads/2018/09/okirsebom_saopaulo_20180905.pdf)<br/>
+  Workshop on Analysis of Acoustic Landscapes, 
   2018.09.05, ICMC, University of São Paulo, Brazil
   
 * [Observation of the ground state transition in the beta decay of <sup>20</sup>F](https://indico.cern.ch/event/686407/contributions/3001378/attachments/1655269/2649510/okirsebom_svalbard.pdf)<br/>
@@ -51,8 +51,8 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   Orientation program for the 61st DAE-BRNS Symposium on Nuclear Physics, 
   2016.12.04, Saha Institute of Nuclear Physics, Kolkata, India
   
-* [Bringing an old magnetic spectrometer back out of retirement](https://docs.google.com/presentation/d/1dRDiIK51J72vA_6oQLTvAx830PGuyUHS2B2BQgM0jxs/edit?usp=sharing), 
-  Nuclear Physics Seminar<br/>
+* [Bringing an old magnetic spectrometer back out of retirement](https://docs.google.com/presentation/d/1dRDiIK51J72vA_6oQLTvAx830PGuyUHS2B2BQgM0jxs/edit?usp=sharing)<br/>
+  Nuclear Physics Seminar, 
   2016.11.24, Jyväskylä, Finland
   
 * [Towards an experimental determination of the transition strength between the ground states of <sup>20</sup>F and <sup>20</sup>Ne](https://drive.google.com/file/d/0B2jsHF2efgcVM0Z3RWhMZVhVcDQ/view?usp=sharing)<br/>
@@ -70,3 +70,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 * [Nuclear astrophysics at the precision frontier](https://docs.google.com/presentation/d/16FuYUVvA2xOz1ElQ6SOju5zu_2QMVkpyAt9LYCPFua4/edit?usp=sharing)<br/>
   VIP seminar, 
   2016.03.15, Vejle Fjord Hotel, Denmark
+  
+* [Bringing an old electron spectrometer back to life](https://docs.google.com/presentation/d/1NpR3Ea0aAb6dfvJft_KvtiF6gnIRSQdpE_3HuoOKbn0/edit?usp=sharing)<br/>
+  MARA2015: Status, Physics and Future, 
+  2015.12.15, Jyväskylä, Finland
