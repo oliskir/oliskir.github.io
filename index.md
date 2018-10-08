@@ -50,3 +50,11 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 * [Experimental Nuclear Astrophysics](https://docs.google.com/presentation/d/1JrhaXjAt2JkSlCJiWZX1Uc59hCGUf8jhmqJGCzBRqeY/edit?usp=sharing)<br/>
   Orientation program for the 61st DAE-BRNS Symposium on Nuclear Physics<br/>
   2016.12.04, Saha Institute of Nuclear Physics, Kolkata, India
+  
+* [Bringing an old magnetic spectrometer back out of retirement](https://docs.google.com/presentation/d/1dRDiIK51J72vA_6oQLTvAx830PGuyUHS2B2BQgM0jxs/edit?usp=sharing)<br/>
+  Nuclear Physics Seminar<br/>
+  2016.11.24, Jyväskylä, Finland
+  
+* [Towards an experimental determination of the transition strength between the ground states of <sup>20F</sup> and <sup>20</sup>Ne](https://drive.google.com/file/d/0B2jsHF2efgcVM0Z3RWhMZVhVcDQ/view?usp=sharing)<br/>
+  14th Symposium on Nuclei in the Cosmos (NIC XIV)<br/>
+  2016.06.19--24, Niigata, Japan
