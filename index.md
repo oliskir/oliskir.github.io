@@ -55,6 +55,14 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   Nuclear Physics Seminar<br/>
   2016.11.24, Jyväskylä, Finland
   
-* [Towards an experimental determination of the transition strength between the ground states of <sup>20F</sup> and <sup>20</sup>Ne](https://drive.google.com/file/d/0B2jsHF2efgcVM0Z3RWhMZVhVcDQ/view?usp=sharing)<br/>
+* [Towards an experimental determination of the transition strength between the ground states of <sup>20</sup>F and <sup>20</sup>Ne](https://drive.google.com/file/d/0B2jsHF2efgcVM0Z3RWhMZVhVcDQ/view?usp=sharing)<br/>
   14th Symposium on Nuclei in the Cosmos (NIC XIV)<br/>
   2016.06.19--24, Niigata, Japan
+  
+* [Experimental progress on clarifying the excitation spectrum of <sup>12</sup>C](https://docs.google.com/presentation/d/1GTraiFf1he-Kub-DYL7fZVeL07bxfom-V-3HnUWftK0/edit?usp=sharing)<br/>
+  11th International Conference on Clustering Aspects of Nuclear Structure and Dynamics<br/>
+  2016.05.24, Napoli, Italy
+  
+* [Studies of beta-delayed particle-emission in light nuclei---some recent examples](https://docs.google.com/presentation/d/1-EAnxN6-dXpK8Fn6u4VYMKIRFmHmsOp6VFC6aa34Qys/edit?usp=sharing)<br/>
+  PG Seminar<br/>
+  2016.05.11, ISOLDE, CERN, Switzerland
