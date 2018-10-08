@@ -78,3 +78,8 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 * [How radioactive targets can help us gain further insights into the properties and structure of light nuclei](https://docs.google.com/presentation/d/1KN9E6AdZnbLvrVimgF5uVQwImNMXamSvu8oCbv7uuy0/edit?usp=sharing)<br/>
   2015.11.25, CHANDA workshop on target preparation, 
   PSI, Switzerland
+  
+* [Efforts towards an experimental determination of the strength of the 2nd-forbidden transition between the ground states of <sup>20</sup>F and <sup>20</sup>Ne](https://docs.google.com/presentation/d/1geVHTsiVmb9GdSaMBMl-4DP3wXmWmzwx3wt4bJK7v-Y/edit?usp=sharing)<br/>
+  2015.10.07, NuGrid workshop: Nucleosynthesis away from stability
+  Goethe University Frankfurt, Germany
+
