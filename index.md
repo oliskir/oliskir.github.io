@@ -85,7 +85,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 
 * [Universets smeltedigler](https://docs.google.com/presentation/d/1CY-Q0z4-5zr3aWzACOAqQXU6a8GXkvBc1_iGntyKYHQ/edit?usp=sharing)<br/>
   29.10.2015, UNF foredrag, Aarhus University, Denmark<br/>
-  *A lecture for the Danish Youth Science Association (UNF) on the formation of the chemical elements.*
+  *A lecture on the formation of the chemical elements for the Danish Youth Science Association (UNF).*
   
 * [Efforts towards an experimental determination of the strength of the 2nd-forbidden transition between the ground states of <sup>20</sup>F and <sup>20</sup>Ne](https://docs.google.com/presentation/d/1geVHTsiVmb9GdSaMBMl-4DP3wXmWmzwx3wt4bJK7v-Y/edit?usp=sharing)<br/>
   2015.10.07, NuGrid workshop: Nucleosynthesis away from stability, 
