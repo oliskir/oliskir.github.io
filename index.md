@@ -115,6 +115,12 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   2014.11.25, PARIS@IPNO Campaign Workshop, 
   IPN-Orsay, France
 
+{% comment %} 
+    16-24.09.2014
+    36th Course of the International School of Nuclear Physics: Nuclei in the Laboratory and in the Cosmos
+    Erice, Italy
+{% endcomment %}
+
 * [Applying new tools to old problems: Experimental studies of resonances in <sup>12</sup>C](https://drive.google.com/open?id=0B2jsHF2efgcVbU1KYmQ2bmRYZlE)<br/>
   2014.05.27, 3rd International Workshop on State of the Art in Nuclear Cluster Physics (SOTANCP3),
   Yokohama, Japan
@@ -129,6 +135,31 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
     NBI, Copenhagen, Denmark
 {% endcomment %}
 
+* [Gamma rays from novae](https://drive.google.com/open?id=0B2jsHF2efgcVZUl1blJhT3JMVnM)<br/>
+  2013.11.20, Seminar, Aarhus University, Denmark
+
+* [A talk in two parts: I. Gamma rays from novae; II. New discoveries about the Hoyle state](https://drive.google.com/open?id=0B2jsHF2efgcVTFFOZDI2ZFhyRFE)<br/>
+  2013.03.11, JINA lunch-talk series,
+  Michigan State University, USA
+
+* [S1378: Lifetime Measurement of the 7.786 MeV State in <sup>23</sup>Mg](https://drive.google.com/open?id=0B2jsHF2efgcVRmdYU0ZMTEJaQmc)<br/>
+  2012.11.21, TRIUMF Science Forum,
+  Vancouver, Canada
+
+* [<sup>12</sup>C and the triple-$\alpha$ reaction rate](https://drive.google.com/open?id=0B2jsHF2efgcVOTlIaWNoWWRuQ0k)<br/>
+  2012.10.27, 10th International Conference on Clustering Aspects of Nuclear Structure and Dynamics,
+  Debrecen, Hungary
+
+* [New discoveries about an old nucleus](https://drive.google.com/open?id=0B2jsHF2efgcVOTljaUlIWDRySUU)<br/>
+  2012.07.18, Seminar, University of York, UK
+
+* [On the breakup of <sup>12</sup>C resonances into three alpha particles](https://drive.google.com/open?id=0B2jsHF2efgcVeWVnYVVRWDdOZ00)<br/>
+  2011.10.14, 6th Workshop on the Critical Stability of Quantum Few-Body Systems,
+  Erice, Italy
+
+* [Three-body decay: the case of 12C → 3α](https://drive.google.com/open?id=0B2jsHF2efgcVYV9xWGhXNG5uR0U)<br/>
+  2011.06.07, 4th International Conference on proton-emitting nuclei and related topics (PROCON),
+  Bordeaux, France
 
 <br/>
 More to be added soon ...
