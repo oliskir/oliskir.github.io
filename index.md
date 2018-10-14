@@ -68,7 +68,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   ISOLDE, CERN, Switzerland
   
 * [Kerner og stjerner](https://docs.google.com/presentation/d/1GmXf0rlD3u2htwhbrrucbHWmwu2Q0YDHH9qJg0Zy09w/edit?usp=sharing)<br/>
-  2016.03.11, Fredagsforedrag, Aarhus University, Denmark<br/>
+  2016.03.11, Seminar, Aarhus University, Denmark<br/>
   *A 30-minute talk aimed at 2nd and 3rd year physics students on current research trends in nuclear astrophysics, focusing on the activities of the nuclear physics group at Aarhus University.*
 
 * [Nuclear astrophysics at the precision frontier](https://docs.google.com/presentation/d/16FuYUVvA2xOz1ElQ6SOju5zu_2QMVkpyAt9LYCPFua4/edit?usp=sharing)<br/>
@@ -84,7 +84,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   PSI, Switzerland
 
 * [Universets smeltedigler](https://docs.google.com/presentation/d/1CY-Q0z4-5zr3aWzACOAqQXU6a8GXkvBc1_iGntyKYHQ/edit?usp=sharing)<br/>
-  29.10.2015, UNF foredrag, Aarhus University, Denmark<br/>
+  29.10.2015, Lecture, Aarhus University, Denmark<br/>
   *A lecture on the formation of the chemical elements for the Danish Youth Science Association (UNF).*
   
 * [Efforts towards an experimental determination of the strength of the 2nd-forbidden transition between the ground states of <sup>20</sup>F and <sup>20</sup>Ne](https://docs.google.com/presentation/d/1geVHTsiVmb9GdSaMBMl-4DP3wXmWmzwx3wt4bJK7v-Y/edit?usp=sharing)<br/>
@@ -104,8 +104,31 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   Saariselkä, Finland
   
 * [Grundstoffernes oprindelse](https://docs.google.com/presentation/d/1hI9hcHSDQ9b4ZHeXp24Uz__ON5rr6s5wunVKo__Cdbk/edit?usp=sharing)<br/>
-  2015.03.25, Foredrag, Aarhus University, Denmark<br/>
+  2015.03.25, Lecture, Aarhus University, Denmark<br/>
   *A lecture on the formation of the chemical elements for high-school students.*
+
+* [Gamma-ray light from stellar explosions](https://drive.google.com/open?id=0B2jsHF2efgcVQUF1ZmFQZjNKaFU)<br/>
+  2015.01.22, Annual meeting of the Danish physical Society,
+  DTU, Denmark
+
+* [Can PARIS provide new clues about the structure of the Hoyle state in <sup>12</sup>C?](https://drive.google.com/open?id=1dUjn51Mi0sLHKe2BNJR-K5IIMCKHezS0XvMnv_tB7d4)<br/>
+  2014.11.25, PARIS@IPNO Campaign Workshop, 
+  IPN-Orsay, France
+
+* [Applying new tools to old problems: Experimental studies of resonances in <sup>12</sup>C](https://drive.google.com/open?id=0B2jsHF2efgcVbU1KYmQ2bmRYZlE)<br/>
+  2014.05.27, 3rd International Workshop on State of the Art in Nuclear Cluster Physics (SOTANCP3),
+  Yokohama, Japan
+  
+* [Gamma rays from novae](https://drive.google.com/open?id=0B2jsHF2efgcVZXhaaG9uUTJtYm8)<br/>
+  28.01.2014, ATHENA Brussels Workshop on Astrophysics,
+  Brussels, Belgium
+
+{% comment %} 
+    13.01.2014
+    Astroparticle Neutrino Physics in Antarctica Workshop
+    NBI, Copenhagen, Denmark
+{% endcomment %}
+
 
 <br/>
 More to be added soon ...
