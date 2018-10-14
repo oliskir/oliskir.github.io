@@ -202,7 +202,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   
 * [High-statistics study of the <sup>8</sup>B beta decay]()<br/>
   2009.04, Arctic FIDIPRO-EFES Workshop,
-  Saariselkä, Finland]
+  Saariselkä, Finland
 
 * [The role of general symmetries in the three-alpha decay of <sup>12</sup>C resonances](https://drive.google.com/open?id=0B2jsHF2efgcVQkJWSXVqaWhnQWc)<br/>
   2009.03, European Nuclear Physics Conference,
