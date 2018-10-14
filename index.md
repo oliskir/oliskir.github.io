@@ -126,7 +126,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   Yokohama, Japan
   
 * [Gamma rays from novae](https://drive.google.com/open?id=0B2jsHF2efgcVZXhaaG9uUTJtYm8)<br/>
-  28.01.2014, ATHENA Brussels Workshop on Astrophysics,
+  2014.01.28, ATHENA Brussels Workshop on Astrophysics,
   Brussels, Belgium
 
 {% comment %} 
@@ -160,6 +160,29 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 * [Three-body decay: the case of <sup>12</sup>C $\rightarrow 3\alpha$](https://drive.google.com/open?id=0B2jsHF2efgcVYV9xWGhXNG5uR0U)<br/>
   2011.06.07, 4th International Conference on proton-emitting nuclei and related topics (PROCON),
   Bordeaux, France
+  
+* [A nuclear physics solution to the cosmological lithium problem?](https://drive.google.com/open?id=0B2jsHF2efgcVTjNkNEhJeFAyUTg)<br/>
+  2011.03.30, Seminar, University of Oslo, Norway
+
+* [The EMMA recoil mass spectrometer](https://drive.google.com/open?id=0B2jsHF2efgcVcWVLSUx3aDhicnM)<br/>
+  2010.12.15, MAGNET 2010 International Workshop,
+  Catania, Italy
+
+* [<sup>8</sup>B Neutrinos and <sup>12</sup>C Resonances](https://drive.google.com/open?id=0B2jsHF2efgcVckVYWXpadVBWSlU)<br/>
+  2010.10.04, TRIUMF Colloquium,
+  Vancouver, Canada
+
+* [New precise measurements of the <sup>8</sup>B neutrino spectrum](https://drive.google.com/open?id=0B2jsHF2efgcVM3Zyay1YNnl2dXM)<br/>
+  2010.07.19, 11th Symposium on Nuclei in the Cosmos (NIC XI),
+  Heidelberg, Germany
+
+* [A complete kinematics approach to study multi-particle final state reactions](https://drive.google.com/open?id=0B2jsHF2efgcVRUFJUXZiX3pDS1U)<br/>
+  2010.03.22, Nordic Winter Meeting on Physics at FAIR,
+  Björkliden, Sweden
+
+* [Exotic structures in <sup>12</sup>C: alpha clustering]()<br/>
+  2010.03, International Symposium: Forefronts of researches in exotic nuclear structures,
+  Niigata, Japan
 
 <br/>
 More to be added soon ...
