@@ -157,7 +157,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   2011.10.14, 6th Workshop on the Critical Stability of Quantum Few-Body Systems,
   Erice, Italy
 
-* [Three-body decay: the case of 12C → 3α](https://drive.google.com/open?id=0B2jsHF2efgcVYV9xWGhXNG5uR0U)<br/>
+* [Three-body decay: the case of <sup>12</sup>C $\rightarrow 3\alpha$](https://drive.google.com/open?id=0B2jsHF2efgcVYV9xWGhXNG5uR0U)<br/>
   2011.06.07, 4th International Conference on proton-emitting nuclei and related topics (PROCON),
   Bordeaux, France
 
