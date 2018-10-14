@@ -184,5 +184,86 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
   2010.03, International Symposium: Forefronts of researches in exotic nuclear structures,
   Niigata, Japan
 
-<br/>
-More to be added soon ...
+* [Three-alpha breakup of <sup>12</sup>C resonances](https://drive.google.com/open?id=0B2jsHF2efgcVcGc5WFVYNDh6d3M)<br/>
+  2009.10, ISOLDE Seminar, 
+  CERN, Switzerland
+
+* [Three-alpha breakup of <sup>12</sup>C resonances]()<br/>
+  2009.09, 16th Euroschool on Exotic Beams,
+  Leuven, Belgium
+
+* [Three-alpha breakup of <sup>12</sup>C resonances](https://drive.google.com/open?id=0B2jsHF2efgcVczM1OWtIS3RoV0E)<br/>
+  2009.08, 10th International Conference on Nucleus-Nucleus Collisions, 
+  Beijing, China
+
+* [Three-alpha breakup of <sup>12</sup>C resonances]()<br/>
+  2009.06, Annual meeting of the Danish physical society & Annual Nordic Meeting,
+  DTU, Denmark
+  
+* [High-statistics study of the <sup>8</sup>B beta decay]()<br/>
+  2009.04, Arctic FIDIPRO-EFES Workshop,
+  Saariselkä, Finland]
+
+* [The role of general symmetries in the three-alpha decay of <sup>12</sup>C resonances](https://drive.google.com/open?id=0B2jsHF2efgcVQkJWSXVqaWhnQWc)<br/>
+  2009.03, European Nuclear Physics Conference,
+  Bochum, Germany
+
+* [The status of the recent <sup>8</sup>B experiment at JYFL and properties of <sup>12</sup>C states deduced through use of Dalitz plots]()<br/>
+  2009.01, MAGISOL collaboration meeting,
+  Madrid, Spain
+
+{% comment %} 
+    12.2008
+    New instruments for neutrino relics and mass
+    CERN, Switzerland
+{% endcomment %}
+
+* [High-statistics study of the <sup>8</sup>B beta decay]()<br/>
+  2008.09, 5th International Conference on Exotic Nuclei and Atomic Masses (ENAM 2008),
+  Ryn, Poland
+
+* [High-statistics study of the <sup>8</sup>B beta decay]()<br/>
+  2008.09, 15th Euroschool on Exotic Beams,
+  Piaski, Poland
+
+* [High-statistics study of the <sup>8</sup>B beta decay]()<br/>
+  2008.07, 10th Symposium on Nuclei in the Cosmos (NIC X),
+  Michigan, USA
+
+* [High-statistics study of the <sup>8</sup>B beta decay](https://drive.google.com/open?id=0B2jsHF2efgcVSUpFVjB6TEdKajQ)<br/>
+  2008.05, JYFL Annual users meeting,
+  Jyväskylä, Finland
+
+{% comment %} 
+    09.2007
+    The path to neutrino mass
+    Aarhus University, Denmark
+{% endcomment %}
+
+* [A study of <sup>10</sup>Li via the <sup>9</sup>Li(<sup>2</sup>H,$p$) reaction]()<br/>
+  2007.08, 14th Euroschool on Exotic Beams,
+  Houlgate, France
+
+* [Resonances in <sup>12</sup>C of astrophysical interest studied via the reaction <sup>10</sup>B(<sup>3</sup>He,$p\alpha\alpha\alpha$)]()<br/>
+  2007.08, 11th Nordic nuclear meeting,
+  Gilleleje, Denmark
+
+* [A study of <sup>10</sup>Li via the <sup>9</sup>Li(<sup>2</sup>H,$p$) reaction](https://drive.google.com/open?id=0B2jsHF2efgcVVlRQQU5fVHkwWXM)<br/>
+  2007.06, International symposium on frontiers and perspectives of nuclear and hadron physics (FPNH07),
+  Tokyo Institute of Technology, Japan
+
+* [Resonances in <sup>12</sup>C of astrophysical interest studied via the reaction <sup>10</sup>B(<sup>3</sup>He,$p\alpha\alpha\alpha$)]()<br/>
+  2007.06, INPC 2007,
+  Tokyo, Japan
+
+{% comment %} 
+    05.2007
+    DREB (Direct Reactions with Exotic Beams)
+    RIKEN, Japan
+{% endcomment %}
+
+* [Nuclear Physics at the University of Aarhus in Denmark]()<br/>
+  2007.05, Foreign Graduate Student Invitation Program (FGIP),
+  Tokyo institute of Technology, Japan
+
+
