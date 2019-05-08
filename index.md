@@ -17,7 +17,7 @@ email: {% include protect-email.include email=site.email %}
 
 # [](#header-1) Bio
 
-I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_Kirsebom.pdf) in Nuclear Physics from [Aarhus University](http://phys.au.dk/), Denmark. Between 2010 and 2018 I was employed as Postdoc at [TRIUMF](https://www.triumf.ca/) (2010-13) and as Assitant Professor at [Aarhus University](http://phys.au.dk/) (2013-18) on a grant from the [Villum Foundation](https://veluxfoundations.dk/en). During these years, I was a frequent visitor at large international accelerator laboratories such as [CERN](https://home.cern/) in Switzerland and led a number successful experimental collaborations, which have advanced our understanding of the nuclear processes that generate energy and transmute chemical elements in the deep interiors of stars. Eager to put my knowledge and analytical skills to use in a more applied setting, I took up a new position in June 2018 at the [Institute for Big Data Analytics](https://bigdata.cs.dal.ca/) at Dalhousie University, Canada, where I work with applications of machine learning to underwater acoustics as part of the [MERIDIAN](https://meridian.cs.dal.ca/) project.
+I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_Kirsebom.pdf) in Nuclear Physics from [Aarhus University](http://phys.au.dk/), Denmark. Between 2010 and 2018 I was employed as Postdoc at [TRIUMF](https://www.triumf.ca/) (2010-13) and as Assitant Professor at [Aarhus University](http://phys.au.dk/) (2013-18) on a grant from the [Villum Foundation](https://veluxfoundations.dk/en). During these years, I was a frequent visitor at large international accelerator laboratories such as [CERN](https://home.cern/) in Switzerland and led a number successful experimental collaborations, which have advanced our understanding of the nuclear processes that generate energy and transmute chemical elements in the deep interiors of stars. Eager to put my knowledge and analytical skills to use in a more applied setting, I took up a new position in June 2018 at the [Institute for Big Data Analytics](https://bigdata.cs.dal.ca/) at Dalhousie University, Canada, where I now work with underwater acoustics data analysis and modeling as part of the [MERIDIAN](https://meridian.cs.dal.ca/) project.
 
 
 # [](#header-1) Publications
@@ -26,6 +26,14 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 
 
 # [](#header-1) Presentations
+
+* [An Atlas of the Changing Soundscape in Canadian Oceans](https://docs.google.com/presentation/d/1aRfgIu2zwB9LrMhd58DzTYPLhV3a9xcNUVuKn7w1uYI/edit?usp=sharing)<br/>
+  2019.05.08, OceanPredict'19,
+  Halifax, NS, Canada
+
+* [Marine Environmental Research Infrastructure for Data Integration and Application Network](https://docs.google.com/presentation/d/1RAdyrubm6ueLMNc1mJsslyrtsHhWywhUL6YG0vdJAu8/edit?usp=sharing)<br/>
+  2019.04.29, Ocean Networks Canada,
+  Victoria, BC, Canada
 
 * [Deep learning applied to underwater acoustic data](https://meridian.cs.dal.ca/wp-content/uploads/2018/09/okirsebom_saopaulo_20180905.pdf)<br/>
   2018.09.05, Workshop on Analysis of Acoustic Landscapes, 
@@ -37,7 +45,7 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 
 * [Electron capture on <sup>20</sup>Ne and the ultimate fate of medium-mass stars](https://drive.google.com/file/d/1H6GMr45f-J2KBftb1G1kTXotggblRmk3/view?usp=sharing)<br/>
   2018.01.12, Colloquium at Saint Mary's University, 
-  Halifax, Canada
+  Halifax, NS, Canada
   
 * [Improved experimental determination of the branching ratio for $\beta$-delayed $\alpha$ decay of <sup>16</sup>N](https://docs.google.com/presentation/d/1FOwCLzzkBtT3RjqxL_szR-p3V4Lj1JnB0QDvN5ir9Mg/edit?usp=sharing)<br/>
   2017.06.21, Nuclear Physics in Astrophysics VIII, 
