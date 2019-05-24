@@ -6,7 +6,7 @@ layout: default
 
 Oliver Sølund Kirsebom<br/>
 PhD Physics<br/>
-Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/)<br/>
+Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/) and Adjunct Professor at Faculty of Computer Science, Dalhousie University<br/>
 [Academic CV]({{ site.baseurl }}/assets/pdf/cv.pdf)<br/>
 LinkedIn: [linkedin.com/in/okayphysics](https://www.linkedin.com/in/okayphysics/)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
