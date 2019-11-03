@@ -27,6 +27,10 @@ I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) u
 
 # [](#header-1) Presentations
 
+* [Potential and Limitations of Artificial Intelligence](https://docs.google.com/presentation/d/1d97Br7I9rECxjgbX-2U76x3HhvFRlqTDL0nIULSAaLk/edit?usp=sharing)<br/>
+  2019.11.01, Future Proofing Your Career in The Age of Disruption,
+  Saint Mary's University, Halifax, Canada
+
 * [An Atlas of Canada's Changing Ocean Soundscape](https://meridian.cs.dal.ca/wp-content/uploads/2019/07/Aquatic-Noise-2019-Soundscape-Atlas-8-July-2019.pdf)<br/>
   2019.07.08, The Effects of Noise on Aquatic Life,
   The Hague, The Netherlands
