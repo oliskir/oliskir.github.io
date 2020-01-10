@@ -27,7 +27,7 @@ Below is a small selection of key papers.
 
 * O. S. Kirsebom et al., [Discovery of an Exceptionally Strong &beta;-Decay Transition of <sup>20</sup>F and Implications for the Fate of Intermediate-Mass Stars](https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.123.262701), Physical Review Letters 123, 262701 (2019); see also: Carla Frohlich, [Viewpoint: A Forbidden Transition Allowed for Stars](https://physics.aps.org/articles/v12/151), Physics 12, 151 (2019).
 
-* O. S. Kirsebom, et al., [First Accurate Normalization of the &beta;-delayed &alpha; Decay of <sup>16</sup>N and Implications for the <sup>12</sup>C(&alpha;,&gamma;)<sup>16</sup>O Astrophysical Reaction Rate](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.142701), Physical Review Letters 121, 142701.
+* O. S. Kirsebom, et al., [First Accurate Normalization of the &beta;-delayed &alpha; Decay of <sup>16</sup>N and Implications for the <sup>12</sup>C(&alpha;,&gamma;)<sup>16</sup>O Astrophysical Reaction Rate](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.142701), Physical Review Letters 121, 142701 (2018).
 
 * O. S. Kirsebom, [Viewpoint: Watching the Hoyle State Fall Apart](https://physics.aps.org/articles/v10/103), Physics 10, 103 (2017)
 
