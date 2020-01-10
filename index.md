@@ -31,7 +31,7 @@ Below is a small selection of key papers.
 
 * O. S. Kirsebom, [Viewpoint: Watching the Hoyle State Fall Apart](https://physics.aps.org/articles/v10/103), Physics 10, 103 (2017)
 
-* D. Jenkins and O. S. Kirsebom, [The secret of life](https://doi.org/10.1088%2F2058-7058%2F26%2F02%2F32), Physics World 26, 23-26 (2013)
+* D. Jenkins and O. S. Kirsebom, [The secret of life]({{ site.baseurl }}/assets/pdf/PWFeb13.pdf), Physics World 26, 23-26 (2013)
 
 * O. S. Kirsebom, et al., [Improved Limit on Direct &alpha; Decay of the Hoyle State](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.202501), Physical Review Letters 108, 202501 (2012).
 
