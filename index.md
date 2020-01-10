@@ -25,8 +25,9 @@ I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_K
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
 Below, is a small selection of key papers.
 
-* [O. S. Kirsebom <it>et al.</it>, Discovery of an Exceptionally Strong Beta-Decay Transition of <sup>20</sup>F and Implications for the Fate of Intermediate-Mass Stars, Physical Review Letters 123, 262701 (2019)](https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.123.262701); see also the Viewpoint by Carla Frohlich: [A Forbidden Transition Allowed for Stars, Physics 12, 151](https://physics.aps.org/articles/v12/151).
+* O. S. Kirsebom et al., [Discovery of an Exceptionally Strong Beta-Decay Transition of <sup>20</sup>F and Implications for the Fate of Intermediate-Mass Stars](https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.123.262701), Physical Review Letters 123, 262701 (2019)]; see also the Viewpoint by Carla Frohlich: [A Forbidden Transition Allowed for Stars](https://physics.aps.org/articles/v12/151), Physics 12, 151 (2019).
 
+* O. S. Kirsebom, et al., [First Accurate Normalization of the Beta-delayed Alpha Decay of <sup>16</sup>N and Implications for the <sup>12</sup>C(&alpha;&gamma;)<sup>16</sup>O Astrophysical Reaction Rate](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.142701), Physical Review Letters 121, 142701.
 
 # [](#header-1) Presentations
 
