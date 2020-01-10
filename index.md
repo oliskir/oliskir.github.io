@@ -25,9 +25,20 @@ I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_K
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
 Below, is a small selection of key papers.
 
-* O. S. Kirsebom et al., [Discovery of an Exceptionally Strong Beta-Decay Transition of <sup>20</sup>F and Implications for the Fate of Intermediate-Mass Stars](https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.123.262701), Physical Review Letters 123, 262701 (2019)]; see also the Viewpoint by Carla Frohlich: [A Forbidden Transition Allowed for Stars](https://physics.aps.org/articles/v12/151), Physics 12, 151 (2019).
+* O. S. Kirsebom et al., [Discovery of an Exceptionally Strong &beta;-Decay Transition of <sup>20</sup>F and Implications for the Fate of Intermediate-Mass Stars](https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.123.262701), Physical Review Letters 123, 262701 (2019)]; see also the Viewpoint by Carla Frohlich: [A Forbidden Transition Allowed for Stars](https://physics.aps.org/articles/v12/151), Physics 12, 151 (2019).
 
-* O. S. Kirsebom, et al., [First Accurate Normalization of the Beta-delayed Alpha Decay of <sup>16</sup>N and Implications for the <sup>12</sup>C(&alpha;&gamma;)<sup>16</sup>O Astrophysical Reaction Rate](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.142701), Physical Review Letters 121, 142701.
+* O. S. Kirsebom, et al., [First Accurate Normalization of the &beta;-delayed &alpha; Decay of <sup>16</sup>N and Implications for the <sup>12</sup>C(&alpha;,&gamma;)<sup>16</sup>O Astrophysical Reaction Rate](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.142701), Physical Review Letters 121, 142701.
+
+* O. S. Kirsebom, [Viewpoint: Watching the Hoyle State Fall Apart](https://physics.aps.org/articles/v10/103), Physics 10, 103 (2017)
+
+* D. Jenkins and O. S. Kirsebom, [The secret of life](https://doi.org/10.1088%2F2058-7058%2F26%2F02%2F32), Physics World 26, 23-26 (2013)
+
+* O. S. Kirsebom, et al., [Improved Limit on Direct &alpha; Decay of the Hoyle State](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.202501), Physical Review Letters 108, 202501 (2012).
+
+* O. S. Kirsebom, et al., [Precise and accurate determination of <sup>8</sup>B decay spectrum](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.83.065802), Physical Review C 83, 065802 (2011).
+
+* O. S. Kirsebom, et al., [Observation of &gamma;-delayed 3&alpha; breakup of the 15.11 and 12.71 MeV states in <sup>12</sup>C](https://www.sciencedirect.com/science/article/abs/pii/S0370269309009836), Physics Letters B 680, 44-49 (2009).
+
 
 # [](#header-1) Presentations
 
