@@ -55,15 +55,19 @@ Below is a small selection of key papers.
 
 # [](#header-1) Presentations
 
+* [Can Deep Neural Networks be trained to detect the North Atlantic right whale upcall?](https://docs.google.com/presentation/d/1NtfxWjtnTZ7y_zClszeoWy3AWUNo2HbJYTiINlyuaQ4/edit?usp=sharing)<br/>
+  2019.11.27, Bedford Institute of Oceanography,
+  Dartmouth, NS, Canada
+
 * [Potential and Limitations of Artificial Intelligence](https://docs.google.com/presentation/d/1d97Br7I9rECxjgbX-2U76x3HhvFRlqTDL0nIULSAaLk/edit?usp=sharing)<br/>
   2019.11.01, Future Proofing Your Career in The Age of Disruption,
-  Saint Mary's University, Halifax, Canada
+  Saint Mary's University, Halifax, NS, Canada
 
-* [An Atlas of Canada's Changing Ocean Soundscape](https://meridian.cs.dal.ca/wp-content/uploads/2019/07/Aquatic-Noise-2019-Soundscape-Atlas-8-July-2019.pdf)<br/>
+* [An Atlas of Canada's Changing Ocean Soundscape](https://docs.google.com/presentation/d/17P2nVBxR7Wq6igc7p3esUs3qP8s7U5AYESRxOW46UH4/edit?usp=sharing)<br/>
   2019.07.08, The Effects of Noise on Aquatic Life,
   The Hague, The Netherlands
 
-* [Acoustic Detection and Classification Using Deep Neural Networks](https://meridian.cs.dal.ca/wp-content/uploads/2019/07/Fabio_Ocean_Predict_Poster.pdf)<br/>
+* [Acoustic Detection and Classification Using Deep Neural Networks](https://docs.google.com/presentation/d/1wC7f0jLZvgfKS-z4eKvVyXqAVEi3t4jvCCSNbI_lzRs/edit?usp=sharing)<br/>
   2019.07.08, The Effects of Noise on Aquatic Life,
   The Hague, The Netherlands
 
