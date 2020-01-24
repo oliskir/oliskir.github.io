@@ -46,6 +46,8 @@ Below is a small selection of key papers.
  
  * O. S. Kirsebom, [Viewpoint - Watching the Hoyle State Fall Apart](https://physics.aps.org/articles/v10/103), Physics 10, 103 (2017)
 
+ * [Ny Viden - Aarhus forskere tættere på at forklare kulstofs gåde](https://sciencereport.dk/ny-viden/aarhus-forskere-taettere-paa-forklare-kulstofs-gaade/), Science Report, 19 May 2017
+
  * [EPJ A Highlight - Breaking up: a convoluted drama at nuclear scale, too](https://epja.epj.org/epja-news/1093-epja-highlight-breaking-up-a-convoluted-drama-at-nuclear-scale-too}), European Physical Journal A, 12 October 2016
 
  * D. Jenkins and O. S. Kirsebom, [The secret of life]({{ site.baseurl }}/assets/pdf/PWFeb13.pdf), Physics World 26, 23-26 (2013)
