@@ -17,13 +17,15 @@ email: {% include protect-email.include email=site.email %}
 
 # [](#header-1) Bio
 
-I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_Kirsebom.pdf) in Nuclear Physics from [Aarhus University](http://phys.au.dk/), Denmark. Between 2010 and 2018 I was employed as Postdoc at [TRIUMF](https://www.triumf.ca/) in Canada (2010-13) and as Assistant Professor at [Aarhus University](http://phys.au.dk/) (2013-18) on two grants from the [Villum Foundation](https://veluxfoundations.dk/en). During these years, I was a frequent visitor at large international accelerator laboratories such as [CERN](https://home.cern/) in Switzerland and led a number successful experimental collaborations, which have advanced our understanding of the nuclear processes that generate energy and transmute chemical elements in the interiors of stars. Eager to put my knowledge and analytical skills to use in a more applied setting, I returned to Canada in 2018 and joined the [MERIDIAN](https://meridian.cs.dal.ca/) project. Based at the [Institute for Big Data Analytics](https://bigdata.cs.dal.ca/) at Dalhousie University in Halifax, I am now leading a small team of data scientists and software developers in creating data analytics and modeling tools for the underwater acoustics research community.
+I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_Kirsebom.pdf) in Nuclear Physics from [Aarhus University](http://phys.au.dk/), Denmark. Between 2010 and 2018 I was employed as Postdoc at [TRIUMF](https://www.triumf.ca/) in Canada (2010-13) and as Assistant Professor at [Aarhus University](http://phys.au.dk/) (2013-18) on grants from the [Villum Foundation](https://veluxfoundations.dk/en). During this time, I was a frequent visitor at large international accelerator laboratories such as [CERN](https://home.cern/) in Switzerland and led a number experimental collaborations, which have advanced our understanding of the nuclear processes that generate energy and transmute chemical elements in the interiors of stars. Eager to put my knowledge and analytical skills to use in a more applied setting, I returned to Canada in 2018 and joined the [MERIDIAN](https://meridian.cs.dal.ca/) project. Based at the [Institute for Big Data Analytics](https://bigdata.cs.dal.ca/) at Dalhousie University in Halifax, I am now leading a small team of data scientists and software developers in creating data analytics and modeling tools for use in underwater acoustics.
 
 
 # [](#header-1) Publications
 
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
-Below is a small selection of key papers.
+Below, is a small sample of key papers.
+
+* O. S. Kirsebom et al., [Performance of a Deep Neural Network at Detecting North Atlantic Right Whale Upcalls](https://arxiv.org/abs/2001.09127), arXiv:2001.09127 [eess.AS] (2020)
 
 * O. S. Kirsebom et al., [Discovery of an Exceptionally Strong &beta;-Decay Transition of <sup>20</sup>F and Implications for the Fate of Intermediate-Mass Stars](https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.123.262701), Physical Review Letters 123, 262701 (2019)
 
