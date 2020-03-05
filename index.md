@@ -40,6 +40,10 @@ Below, is a small sample of key papers.
 
 # [](#header-1) Features and Coverage
 
+ * Rachel Berkowitz, [Rare nuclear transition provides evidence for stellar explosion mechanism]({{ site.baseurl }}/assets/pdf/PhysicsToday2020.pdf), Physics Today 73, 3, 16 (2020)
+
+ * [L’intelligence artificielle à la rescousse des baleines noires](https://journallesoir.ca/2020/03/03/lintelligence-artificielle-a-la-rescousse-des-baleines-noires/), Journal le Soir, 3 March 2020
+
  * [Rare nuclear transition provides evidence for supernova mechanism](https://physicstoday.scitation.org/do/10.1063/PT.6.1.20200131a/full/), Physics Today, 31 January 2020
 
  * [Research update - Forbidden nuclear transition sheds light on how some stars die](https://physicsworld.com/a/forbidden-nuclear-transition-sheds-light-on-how-some-stars-die), Physics World, 23 January 2020
