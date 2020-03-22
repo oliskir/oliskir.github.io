@@ -46,7 +46,7 @@ Below, is a small sample of key papers.
 
  * [Rare nuclear transition provides evidence for supernova mechanism](https://physicstoday.scitation.org/do/10.1063/PT.6.1.20200131a/full/), Physics Today, 31 January 2020
 
- * [Research update - Forbidden nuclear transition sheds light on how some stars die](https://physicsworld.com/a/forbidden-nuclear-transition-sheds-light-on-how-some-stars-die), Physics World, 23 January 2020
+ * [Research update - Forbidden nuclear transition sheds light on how some stars die]({{ site.baseurl }}/assets/pdf/PW-F20-Jan2020.pdf), Physics World, 23 January 2020
 
  * Carla Frohlich, [Viewpoint - A Forbidden Transition Allowed for Stars](https://physics.aps.org/articles/v12/151), Physics 12, 151 (2019)
 
