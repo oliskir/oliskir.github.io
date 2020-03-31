@@ -40,6 +40,8 @@ Below, is a small sample of key papers.
 
 # [](#header-1) Features and Coverage
 
+ * Ryan F. Mandelbaum, [How Neon Can Make a Star Destroy Itself](https://gizmodo.com/how-neon-can-make-a-star-destroy-itself-1842564886), Gizmodo, 31 March 2020
+
  * Rachel Berkowitz, [Rare nuclear transition provides evidence for stellar explosion mechanism]({{ site.baseurl }}/assets/pdf/PhysicsToday2020.pdf), Physics Today 73, 3, 16 (2020)
 
  * [L’intelligence artificielle à la rescousse des baleines noires](https://journallesoir.ca/2020/03/03/lintelligence-artificielle-a-la-rescousse-des-baleines-noires/), Journal le Soir, 3 March 2020
