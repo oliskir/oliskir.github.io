@@ -6,7 +6,7 @@ layout: default
 
 Oliver Sølund Kirsebom<br/>
 PhD Physics<br/>
-Lead Acoustic Data Analyst at [MERIDIAN](https://meridian.cs.dal.ca/) and Adjunct Professor in the Faculty of Computer Science at Dalhousie University<br/>
+Senior Staff Scientist at [MERIDIAN](https://meridian.cs.dal.ca/) and Adjunct Professor in the Faculty of Computer Science at Dalhousie University<br/>
 [Academic CV]({{ site.baseurl }}/assets/pdf/cv.pdf)<br/>
 LinkedIn: [linkedin.com/in/okayphysics](https://www.linkedin.com/in/okayphysics/)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
@@ -17,7 +17,7 @@ email: {% include protect-email.include email=site.email %}
 
 # [](#header-1) Bio
 
-I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_Kirsebom.pdf) in Nuclear Physics from [Aarhus University](http://phys.au.dk/), Denmark. Between 2010 and 2018 I was employed as Postdoc at [TRIUMF](https://www.triumf.ca/) in Canada (2010-13) and as Assistant Professor at [Aarhus University](http://phys.au.dk/) (2013-18) on grants from the [Villum Foundation](https://veluxfoundations.dk/en). During this time, I was a frequent visitor at large international accelerator laboratories such as [CERN](https://home.cern/) in Switzerland and led a number experimental collaborations, which have advanced our understanding of the nuclear processes that generate energy and transmute chemical elements in the interiors of stars. Eager to put my knowledge and analytical skills to use in a more applied setting, I returned to Canada in 2018 and joined the [MERIDIAN](https://meridian.cs.dal.ca/) project. Based at the [Institute for Big Data Analytics](https://bigdata.cs.dal.ca/) at Dalhousie University in Halifax, I am now leading a small team of data scientists and software developers in creating data analytics and modeling tools for use in underwater acoustics.
+I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_Kirsebom.pdf) in Nuclear Physics from [Aarhus University](http://phys.au.dk/), Denmark. Between 2010 and 2018 I was employed as Postdoc at [TRIUMF](https://www.triumf.ca/) in Canada (2010-13) and as Assistant Professor at [Aarhus University](http://phys.au.dk/) (2013-18) on grants from the [Villum Foundation](https://veluxfoundations.dk/en). During this time, I was a frequent visitor at large international accelerator laboratories such as [CERN](https://home.cern/) in Switzerland and led a number experimental collaborations, which have advanced our understanding of the nuclear processes that generate energy and transmute chemical elements in the interiors of stars. Eager to put my knowledge and analytical skills to use in a more applied setting, I returned to Canada in 2018 and joined the [MERIDIAN](https://meridian.cs.dal.ca/) project. Based at the [Institute for Big Data Analytics](https://bigdata.cs.dal.ca/) at Dalhousie University in Halifax, I am now leading a team of data scientists and software developers in creating data analytics and modeling tools for use in underwater acoustics.
 
 
 # [](#header-1) Publications
