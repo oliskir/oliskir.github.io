@@ -25,7 +25,7 @@ I have a [PhD](http://phys.au.dk/fileadmin/site_files/publikationer/phd/Oliver_K
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
 Below, is a small sample of key papers.
 
-* O. S. Kirsebom et al., [Performance of a Deep Neural Network at Detecting North Atlantic Right Whale Upcalls](https://arxiv.org/abs/2001.09127), arXiv:2001.09127 [eess.AS] (2020)
+* O. S. Kirsebom et al., [Performance of a Deep Neural Network at Detecting North Atlantic Right Whale Upcalls](https://asa.scitation.org/doi/10.1121/10.0001132), The Journal of the Acoustical Society of America 147, 2636 (2020); [preprint](https://arxiv.org/abs/2001.09127), [data](http://dx.doi.org/10.20383/101.0241), [software](https://doi.org/10.5281/zenodo.3736625)
 
 * O. S. Kirsebom et al., [Discovery of an Exceptionally Strong &beta;-Decay Transition of <sup>20</sup>F and Implications for the Fate of Intermediate-Mass Stars](https://physics.aps.org/featured-article-pdf/10.1103/PhysRevLett.123.262701), Physical Review Letters 123, 262701 (2019)
 
