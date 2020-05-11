@@ -40,8 +40,7 @@ Below, is a small sample of key papers.
 
 # [](#header-1) Features and Coverage
 
- * Interview for Mainstreet NS on CBC Radio, 28 April 2020
-<audio controls>
+ * Interview for Mainstreet NS on CBC Radio about the use of deep learning for detecting North Atlantic right whale calls, 28 April 2020<audio controls>
   <source src="{{ site.baseurl }}/assets/audio/cbc_mainstreet_20200428.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
