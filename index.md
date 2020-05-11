@@ -41,13 +41,12 @@ Below, is a small sample of key papers.
 # [](#header-1) Features and Coverage
 
  * Interview about the use of deep learning for detecting North Atlantic right whale calls, Mainstreet on CBC Radio One, 28 April 2020
-<div align="center">
+<div align="center" style="margin-bottom:3cm">
 <audio controls>
   <source src="{{ site.baseurl }}/assets/audio/cbc_mainstreet_20200428.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </div>
-<br>
 
  * Ryan F. Mandelbaum, [How Neon Can Make a Star Destroy Itself](https://gizmodo.com/how-neon-can-make-a-star-destroy-itself-1842564886), Gizmodo, 31 March 2020
 
