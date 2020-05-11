@@ -47,6 +47,7 @@ Below, is a small sample of key papers.
 Your browser does not support the audio element.
 </audio>
 </div>
+<br>
 
  * Ryan F. Mandelbaum, [How Neon Can Make a Star Destroy Itself](https://gizmodo.com/how-neon-can-make-a-star-destroy-itself-1842564886), Gizmodo, 31 March 2020
 
