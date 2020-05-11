@@ -40,6 +40,12 @@ Below, is a small sample of key papers.
 
 # [](#header-1) Features and Coverage
 
+ * Interview for Mainstreet NS on CBC Radio, 28 April 2020
+<audio controls>
+  <source src="{{ site.baseurl }}/assets/audio/cbc_mainstreet_20200428.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
  * Ryan F. Mandelbaum, [How Neon Can Make a Star Destroy Itself](https://gizmodo.com/how-neon-can-make-a-star-destroy-itself-1842564886), Gizmodo, 31 March 2020
 
  * Rachel Berkowitz, [Rare nuclear transition provides evidence for stellar explosion mechanism]({{ site.baseurl }}/assets/pdf/PhysicsToday2020.pdf), Physics Today 73, 3, 16 (2020)
