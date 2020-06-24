@@ -17,7 +17,7 @@ email: {% include protect-email.include email=site.email %}
 
 # [](#header-1) Bio
 
-I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade, I was a frequent visitor at accelerator laboratories such as CERN in Switzerland, performing experiments to advance our understanding of the nuclear astrophysical processes that have shaped our Universe. A few years ago, however, I embarked on a new chapter. Eager to put my knowledge and skills to use in a more applied setting, I joined the Institute for Big Data Analytics at Dalhousie University in Halifax, Canada, where I am now leading a team of data scientists in creating novel analytical tools for underwater acoustics research, for example, training deep neural networks to ``listen'' for whales. Meanwhile, I am still pursuing some nuclear physics research on the side.
+I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade, I was a frequent visitor at accelerator laboratories such as CERN in Switzerland, performing experiments to advance our understanding of the nuclear astrophysical processes that have shaped our Universe. A few years ago, however, I embarked on a new chapter. Eager to put my knowledge and skills to use in a more applied setting, I joined the Institute for Big Data Analytics at Dalhousie University in Halifax, Canada, where I am now leading a team of data scientists in creating novel analytical tools for underwater acoustics research, for example, training deep neural networks to ''listen'' for whales. Meanwhile, I remain enganged in nuclear physics research, corresponding with colleagues, writing papers, and playing with numerical simulations. 
 
 
 # [](#header-1) Publications
