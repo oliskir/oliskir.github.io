@@ -73,6 +73,10 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* [To Implode, Or To Explode? Electron Capture on <sup>20</sup>Ne and Implications for Intermediate-Mass Stars](https://drive.google.com/file/d/1T-aIBeS75ZYyExU730iVoBxOoTpGw6CC/view?usp=sharing)<br/>
+  2020.06.24, NSCL/FRIB Summer Virtual Seminar,
+  East Lansing, MI, USA
+
 * [Can Deep Neural Networks be trained to detect the North Atlantic right whale upcall?](https://docs.google.com/presentation/d/1NtfxWjtnTZ7y_zClszeoWy3AWUNo2HbJYTiINlyuaQ4/edit?usp=sharing)<br/>
   2019.11.27, Bedford Institute of Oceanography,
   Dartmouth, NS, Canada
