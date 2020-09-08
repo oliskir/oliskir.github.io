@@ -40,6 +40,8 @@ Below, is a small sample of key papers.
 
 # [](#header-1) Features and Coverage
 
+ * O. S. Kirsebom, [At eksplodere eller at implodere?]({{ site.baseurl }}/assets/pdf/AN4-2020-kernefysik-og-stjerner.pdf), Aktuel Naturvidenskab nr. 4-2020
+
  * Interview about the use of deep learning for detecting North Atlantic right whale calls, Mainstreet on CBC Radio One, 28 April 2020
 <div align="center" style="margin-bottom:0.5cm">
 <audio controls>
