@@ -40,6 +40,8 @@ Below, is a small sample of key papers.
 
 # [](#header-1) Features and Coverage
 
+ * Fabio Frazao, Oliver Kirsebom, et al., [Embedded Deep Learning for Underwater Acoustics]({{ site.baseurl }}/assets/pdf/JOT2020.pdf), The Journal of Ocean Technology 15, No. 3, 174-175 (2019)
+
  * O. S. Kirsebom, [At eksplodere eller at implodere?]({{ site.baseurl }}/assets/pdf/AN4-2020-kernefysik-og-stjerner.pdf), Aktuel Naturvidenskab nr. 4-2020
 
  * Interview about the use of deep learning for detecting North Atlantic right whale calls, Mainstreet on CBC Radio One, 28 April 2020
@@ -62,7 +64,7 @@ Your browser does not support the audio element.
 
  * Carla Frohlich, [Viewpoint - A Forbidden Transition Allowed for Stars](https://physics.aps.org/articles/v12/151), Physics 12, 151 (2019)
 
- * O. S. Kirsebom et al., [Towards Versatile & Adaptive Detection Algorithms in Underwater Acoustics]({{ site.baseurl }}/assets/pdf/JOT2019.pdf), The Journal of Ocean Technology 14, No. 3, 144-145 (2019)
+ * Oliver Kirsebom et al., [Towards Versatile & Adaptive Detection Algorithms in Underwater Acoustics]({{ site.baseurl }}/assets/pdf/JOT2019.pdf), The Journal of Ocean Technology 14, No. 3, 144-145 (2019)
  
  * O. S. Kirsebom, [Viewpoint - Watching the Hoyle State Fall Apart](https://physics.aps.org/articles/v10/103), Physics 10, 103 (2017)
 
