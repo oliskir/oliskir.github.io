@@ -42,7 +42,7 @@ Below, is a small sample of key papers.
 
  * [Researchers aim to use artificial intelligence to save endangered whales in B.C.](https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c), Vancouver Sun, 13 December 2020
 
- * Fabio Frazao, Oliver Kirsebom, et al., [Embedded Deep Learning for Underwater Acoustics]({{ site.baseurl }}/assets/pdf/JOT2020.pdf), The Journal of Ocean Technology 15, No. 3, 174-175 (2019)
+ * Fabio Frazao, Oliver Kirsebom, et al., [Embedded Deep Learning for Underwater Acoustics]({{ site.baseurl }}/assets/pdf/JOT2020.pdf), The Journal of Ocean Technology 15, No. 3, 174-175 (2020)
 
  * O. S. Kirsebom, [At eksplodere eller at implodere?]({{ site.baseurl }}/assets/pdf/AN4-2020-kernefysik-og-stjerner.pdf), Aktuel Naturvidenskab nr. 4-2020
 
