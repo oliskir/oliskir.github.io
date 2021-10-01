@@ -17,13 +17,15 @@ email: {% include protect-email.include email=site.email %}
 
 # [](#header-1) Bio
 
-I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade, I was a frequent visitor at accelerator laboratories such as CERN in Switzerland, performing experiments to advance our understanding of the nuclear astrophysical processes that have shaped our Universe. A few years ago, however, I embarked on a new chapter. Eager to put my knowledge and skills to use in a more applied setting, I joined the Institute for Big Data Analytics at Dalhousie University in Halifax, Canada, where I am now leading a team of data scientists in creating novel analytical tools for underwater acoustics research, for example, training deep neural networks to ''listen'' for whales. Meanwhile, I remain enganged in nuclear physics research, corresponding with colleagues, writing papers, and playing with numerical simulations. 
+I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade I was a frequent visitor at accelerator laboratories such as CERN in Switzerland, studying the nuclear astrophysical processes that shape our Universe. A few years ago, however, I embarked on a new chapter. Eager to put my knowledge and skills to use in a more applied setting, I joined the Institute for Big Data Analytics at Dalhousie University in Halifax, Canada, where I am now leading a team of data scientists in creating novel analytical tools for ocean research, for example, training deep neural networks to ''listen'' for whales. Meanwhile, I remain enganged in nuclear physics research, corresponding with colleagues, writing papers, and playing with numerical simulations.
 
 
 # [](#header-1) Publications
 
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
-Below, is a small sample of key papers.
+Below, is a small selection of recent or noteworthy papers.
+
+* M. J. Rider, O. S. Kirsebom, et al., [Space use patterns of sharks in relation to boat activity in an urbanized coastal waterway](https://www.sciencedirect.com/science/article/pii/S0141113621002452), Marine Environmental Research, 105489 (2021)
 
 * O. S. Kirsebom et al., [Performance of a Deep Neural Network at Detecting North Atlantic Right Whale Upcalls](https://asa.scitation.org/doi/10.1121/10.0001132), The Journal of the Acoustical Society of America 147, 2636 (2020); [article]({{ site.baseurl }}/assets/pdf/NARW-JASA2020.pdf),[data](http://dx.doi.org/10.20383/101.0241),[software](https://doi.org/10.5281/zenodo.3736625)
 
