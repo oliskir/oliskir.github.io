@@ -25,7 +25,7 @@ I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
 Below, is a small selection of recent or noteworthy papers.
 
-* M. J. Rider, O. S. Kirsebom, et al., [Space use patterns of sharks in relation to boat activity in an urbanized coastal waterway](https://www.sciencedirect.com/science/article/pii/S0141113621002452), Marine Environmental Research, 105489 (2021)
+* M. J. Rider, O. S. Kirsebom, et al., [Space use patterns of sharks in relation to boat activity in an urbanized coastal waterway]({{ site.baseurl }}/assets/pdf/rider2021.pdf), Marine Environmental Research 172, 105489 (2021)
 
 * O. S. Kirsebom et al., [Performance of a Deep Neural Network at Detecting North Atlantic Right Whale Upcalls](https://asa.scitation.org/doi/10.1121/10.0001132), The Journal of the Acoustical Society of America 147, 2636 (2020); [article]({{ site.baseurl }}/assets/pdf/NARW-JASA2020.pdf),[data](http://dx.doi.org/10.20383/101.0241),[software](https://doi.org/10.5281/zenodo.3736625)
 
