@@ -17,13 +17,27 @@ email: {% include protect-email.include email=site.email %}
 
 # [](#header-1) Bio
 
-I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade I was a frequent visitor at accelerator laboratories such as CERN in Switzerland, studying the nuclear astrophysical processes that shape our Universe. A few years ago, however, I embarked on a new chapter. Eager to put my knowledge and skills to use in a more applied setting, I joined the Institute for Big Data Analytics at Dalhousie University in Halifax, Canada, where I am now leading a team of data scientists in creating novel analytical tools for ocean research, for example, training deep neural networks to ''listen'' for whales. Meanwhile, I remain enganged in nuclear physics research, corresponding with colleagues, writing papers, and playing with numerical simulations.
+I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade I was a frequent visitor at accelerator laboratories such as CERN in Switzerland, studying the smallest building blocks of our universe. A few years ago, however, I embarked on a new chapter. Eager to put my knowledge and skills to use in a more applied setting, I joined the Institute for Big Data Analytics at Dalhousie University in Halifax, Canada. As the Senior Staff Scientist on the [MERIDIAN](https://meridian.cs.dal.ca/) project, I am now leading a team of data scientists in creating novel analytical tools for ocean research, for example, training deep neural networks to ''listen'' for whales. Meanwhile, I remain enganged in nuclear physics research, corresponding with fellow physicists and playing with numerical simulations.
+
+On this page you will find an overview of my scientific contributions, which include open-source software, research papers, feature articles & media coverage, and presentations given at various conferences and workshops. 
 
 
-# [](#header-1) Publications
+# [](#header-1) Software
+
+I am currently the lead developer on the two open-source Python packages, [ketos](https://docs.meridian.cs.dal.ca/ketos/), which helps you develop deep learning models for analyzing underwater sound (for example, detecting the calls made by whales), and [kadlu](https://docs.meridian.cs.dal.ca/kadlu/), which allows you to model underwater sound propagation.
+
+Back when I was , I developed a fair amount of specialized
+code in C++ and Fortran for analyzing experimental data and simulating various 
+atomic and nuclear processes. A few of these projects have been made publicly available ([simX](https://zenodo.org/record/1320121#%23.XVMEl3VKhhE) and [Open R-matrix](https://zenodo.org/record/1174079#%23.XVMEr3VKhhE)), but most reside on private code repositories hosted by academic research groups. 
+
+On my [github page](https://github.com/oliskir) you will find my personal projects, which include a Python implementation of the Crank-Nicolson Method for solving the Time-Dependent Schrodinger Equation ([pytunnel]()).
+
+
+
+# [](#header-1) Research papers
 
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
-Below, is a small selection of recent or noteworthy papers.
+Below, is a selection of recent or noteworthy papers.
 
 * S. Medisetty, et al., [Identification of periodic fish tags with deep learning]({{ site.baseurl }}/assets/pdf/JoT_Oct2021.pdf), The Journal of Ocean Technology 16, 134-149 (2021)
 
@@ -42,7 +56,7 @@ Below, is a small selection of recent or noteworthy papers.
 * O. S. Kirsebom, et al., [Observation of &gamma;-delayed 3&alpha; breakup of the 15.11 and 12.71 MeV states in <sup>12</sup>C](https://www.sciencedirect.com/science/article/abs/pii/S0370269309009836), Physics Letters B 680, 44-49 (2009).
 
 
-# [](#header-1) Features and Coverage
+# [](#header-1) Feature articles and media coverage
 
  * Oliver Kirsebom et al., [Advancing Acoustic Fish Tracking with Deep Learning]({{ site.baseurl }}/assets/pdf/JoT_July2021.pdf), The Journal of Ocean Technology 16, No. 2, 124-125 (2021)
 
