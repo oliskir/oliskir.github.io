@@ -11,7 +11,7 @@ Senior Staff Scientist at [MERIDIAN](https://meridian.cs.dal.ca/) and Adjunct Pr
 LinkedIn: [linkedin.com/in/okayphysics](https://www.linkedin.com/in/okayphysics/)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
 email: {% include protect-email.include email=site.email %}<br/>
-github: [github.com/oliskir](https://github.com/oliskir)
+code: [github.com/oliskir](https://github.com/oliskir)
 
 ![][me]{: .center-image }
 
@@ -25,13 +25,11 @@ On this page you will find an overview of my scientific contributions, which inc
 
 # [](#header-1) Software
 
-I am currently the lead developer on the two open-source Python packages, [ketos](https://docs.meridian.cs.dal.ca/ketos/), which helps you develop deep learning models for analyzing underwater sound (for example, detecting the calls made by whales), and [kadlu](https://docs.meridian.cs.dal.ca/kadlu/), which allows you to model underwater sound propagation.
+I am currently the lead developer on two open-source Python packages: [ketos](https://docs.meridian.cs.dal.ca/ketos/), which helps you develop deep learning models for analyzing underwater sound (for example, detecting the calls made by whales), and [kadlu](https://docs.meridian.cs.dal.ca/kadlu/), which allows you to model underwater sound propagation.
 
-Back when I was , I developed a fair amount of specialized
-code in C++ and Fortran for analyzing experimental data and simulating various 
-atomic and nuclear processes. A few of these projects have been made publicly available ([simX](https://zenodo.org/record/1320121#%23.XVMEl3VKhhE) and [Open R-matrix](https://zenodo.org/record/1174079#%23.XVMEr3VKhhE)), but most reside on private code repositories hosted by academic research groups. 
+I have also developed a fair amount of specialized code in C++ and Fortran for analyzing experimental nuclear-physics data and simulating various atomic and nuclear processes. A few of these projects have been made publicly available ([simX](https://zenodo.org/record/1320121#%23.XVMEl3VKhhE) and [Open R-matrix](https://zenodo.org/record/1174079#%23.XVMEr3VKhhE)), but most still reside on the (password-protected) code repository of my old research group in Aarhus. 
 
-On my [github page](https://github.com/oliskir) you will find my personal projects, which include a Python implementation of the Crank-Nicolson Method for solving the Time-Dependent Schrodinger Equation ([pytunnel]()).
+On my [github page](https://github.com/oliskir) you will find my personal coding projects, which include a Python implementation of the Crank-Nicolson Method for solving the Time-Dependent Schrodinger Equation ([pytunnel]()).
 
 
 
