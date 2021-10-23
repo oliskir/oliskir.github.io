@@ -10,7 +10,7 @@ Senior Staff Scientist at [MERIDIAN](https://meridian.cs.dal.ca/) and Adjunct Pr
 [Academic CV]({{ site.baseurl }}/assets/pdf/cv.pdf)<br/>
 LinkedIn: [linkedin.com/in/okayphysics](https://www.linkedin.com/in/okayphysics/)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
-email: {% include protect-email.include email=site.email %}
+email: {% include protect-email.include email=site.email %}<br/>
 github: [github.com/oliskir](https://github.com/oliskir)
 
 ![][me]{: .center-image }
