@@ -25,11 +25,11 @@ On this page you will find an overview of my scientific contributions, which inc
 
 # [](#header-1) Software
 
-I am currently the lead developer on two open-source Python packages: [ketos](https://docs.meridian.cs.dal.ca/ketos/), which helps you develop deep learning models for analyzing underwater sound (for example, detecting the calls made by whales), and [kadlu](https://docs.meridian.cs.dal.ca/kadlu/), which allows you to model underwater sound propagation.
+I am currently the lead developer on two open-source Python packages: [ketos](https://docs.meridian.cs.dal.ca/ketos/), which helps you develop deep learning models for analyzing underwater sound (for example, detecting whale calls), and [kadlu](https://docs.meridian.cs.dal.ca/kadlu/), which provides tools for modelling underwater sound propagation.
 
-I have also developed a fair amount of specialized code in C++ and Fortran for analyzing experimental nuclear-physics data and simulating various atomic and nuclear processes. A few of these projects have been made publicly available ([simX](https://zenodo.org/record/1320121#%23.XVMEl3VKhhE) and [Open R-matrix](https://zenodo.org/record/1174079#%23.XVMEr3VKhhE)), but most remain behind locked doors on the (password-protected) code repository of my old research group in Aarhus. 
+I have also developed a fair amount of specialized code in C++ and Fortran for analyzing nuclear-physics data and simulating various atomic and nuclear processes. A few of these coding projects have been made publicly available ([simX](https://zenodo.org/record/1320121#%23.XVMEl3VKhhE) and [Open R-matrix](https://zenodo.org/record/1174079#%23.XVMEr3VKhhE)), but most remain behind locked doors on the code repository of my old research group in Aarhus. 
 
-On my [github page](https://github.com/oliskir) you will find my personal coding projects, which include a Python implementation of the Crank-Nicolson Method for solving the Time-Dependent Schrodinger Equation ([pytunnel]()).
+On my [github page](https://github.com/oliskir) you will find some of my personal coding projects including a Python implementation of the Crank-Nicolson Method for solving the Time-Dependent Schrodinger Equation ([pytunnel]()).
 
 
 
