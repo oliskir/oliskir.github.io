@@ -29,7 +29,7 @@ I am currently the lead developer on two open-source Python packages: [ketos](ht
 
 I have also developed a fair amount of specialized code in C++ and Fortran for analyzing nuclear-physics data and simulating various atomic and nuclear processes. Some of this code is publicly available ([simX](https://zenodo.org/record/1320121#%23.XVMEl3VKhhE), [Open R-matrix](https://zenodo.org/record/1174079#%23.XVMEr3VKhhE), [DCAP](https://gitlab.au.dk/ausa/oliskir/dcap), [VeikonKone](https://gitlab.au.dk/ausa/oliskir/veikonkone), [bedepe](https://gitlab.au.dk/ausa/oliskir/bedepe)), but the majority remains behind locked doors on the code repository of my old research group in Aarhus. 
 
-On my [github page](https://github.com/oliskir) you will find some of my personal coding projects including a Python implementation of the Crank-Nicolson Method for solving the Time-Dependent Schrodinger Equation ([pytunnel]()).
+On my [github page](https://github.com/oliskir) you will find a few personal coding projects including a Python implementation of the Crank-Nicolson Method for solving the Time-Dependent Schrodinger Equation ([pytunnel](https://github.com/oliskir/pytunnel)).
 
 
 
