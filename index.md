@@ -98,6 +98,11 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* [Open-source deep learning models for acoustic detection and classification of orcas
+](https://docs.google.com/presentation/d/183WNdNNJHjBTvpFsWr_LqnYVaQFsmw8qAFzPD0nUPo4/edit?usp=sharing)<br/>
+  2021.12.03, 181st Meeting Acoustical Society of America,
+  Seattle, WA, USA
+
 * [To Implode, Or To Explode? Electron Capture on <sup>20</sup>Ne and Implications for Intermediate-Mass Stars](https://drive.google.com/file/d/1T-aIBeS75ZYyExU730iVoBxOoTpGw6CC/view?usp=sharing)<br/>
   2020.06.24, NSCL/FRIB Summer Virtual Seminar,
   East Lansing, MI, USA
