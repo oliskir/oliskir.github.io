@@ -98,9 +98,17 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* [MERIDIAN open-source software for deep learning based acoustic data analysis](https://docs.google.com/presentation/d/1b7NDvNpbHc6CLDEXGYEOqc-sE24nIkeH-Gfz45NEqT4/edit?usp=sharing)<br/>
+  2022.05.23, 182nd Meeting of the Acoustical Society of America,
+  Denver, Co, USA
+
+* [Detecting and Classifying Underwater Sounds With Deep Learning](https://docs.google.com/presentation/d/1WOGVUCbo8rpUIaj9kklKY57DbSt0C_5mcmhzfXNZCPY/edit?usp=sharing)<br/>
+  2022.05.17, DRDC Atlantic Discussion Series,
+  Halifax, NS, Canada
+
 * [Open-source deep learning models for acoustic detection and classification of orcas
 ](https://docs.google.com/presentation/d/183WNdNNJHjBTvpFsWr_LqnYVaQFsmw8qAFzPD0nUPo4/edit?usp=sharing)<br/>
-  2021.12.03, 181st Meeting Acoustical Society of America,
+  2021.12.03, 181st Meeting of the Acoustical Society of America,
   Seattle, WA, USA
 
 * [To Implode, Or To Explode? Electron Capture on <sup>20</sup>Ne and Implications for Intermediate-Mass Stars](https://drive.google.com/file/d/1T-aIBeS75ZYyExU730iVoBxOoTpGw6CC/view?usp=sharing)<br/>
