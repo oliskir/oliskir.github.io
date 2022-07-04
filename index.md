@@ -6,7 +6,7 @@ layout: default
 
 Oliver Sølund Kirsebom<br/>
 PhD Physics<br/>
-Senior Staff Scientist at [MERIDIAN](https://meridian.cs.dal.ca/) and Adjunct Professor in the Faculty of Computer Science at Dalhousie University<br/>
+Lead Data Scientist at [Open Ocean Robotics](https://openoceanrobotics.com/) and Adjunct Professor in the Faculty of Computer Science at Dalhousie University<br/>
 [Academic CV]({{ site.baseurl }}/assets/pdf/cv.pdf)<br/>
 LinkedIn: [linkedin.com/in/okayphysics](https://www.linkedin.com/in/okayphysics/)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
@@ -18,7 +18,7 @@ code: [github.com/oliskir](https://github.com/oliskir)
 
 # [](#header-1) Bio
 
-I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade I was a frequent visitor at accelerator laboratories such as CERN in Switzerland, studying the smallest building blocks of our universe. A few years ago, however, I embarked on a new chapter. Eager to put my knowledge and skills to use in a more applied setting, I joined the Institute for Big Data Analytics at Dalhousie University in Halifax, Canada. As the Senior Staff Scientist on the [MERIDIAN](https://meridian.cs.dal.ca/) project, I am now leading a team of data scientists in creating novel analytical tools for ocean research, for example, training deep neural networks to ''listen'' for whales. Meanwhile, I remain enganged in nuclear physics research, corresponding with fellow physicists and playing with numerical simulations.
+I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade, I was a frequent visitor at accelerator laboratories such as CERN in Switzerland, performing experiments to advance our understanding of the nuclear astrophysical processes that have shaped our Universe. Nowadays, however, my focus has shifted to a more applied realm. As the Lead Data Scientist at [Open Ocean Robotics](https://openoceanrobotics.com), I help making sense of a wide range of ocean sensor data collected by unmanned surface vessels, building data magement systems and data analysis pipelines, for example, for automating the detection and classification of marine mammal sounds. Meanwhile, I remain enganged in nuclear physics research, corresponding with fellow physicists and playing with numerical simulations.
 
 On this page you will find an overview of my scientific contributions, which include open-source software, research papers, feature articles & media coverage, and presentations given at various conferences and workshops. 
 
