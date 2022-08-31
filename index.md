@@ -98,6 +98,10 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* [Deep Learning for Marine Bioacoustics - A Practitioner's Perspective](https://docs.google.com/presentation/d/1l5RL-bqg_rNjjhKKh_g8lk2E01Rmyb3six3yT18WjZo/edit?usp=sharing)<br/>
+  2022.08.31, Workshop: Towards Predicting Whale Movement,
+  Simon Fraser University, Vancouver, BC, Canada
+
 * [MERIDIAN open-source software for deep learning based acoustic data analysis](https://docs.google.com/presentation/d/1b7NDvNpbHc6CLDEXGYEOqc-sE24nIkeH-Gfz45NEqT4/edit?usp=sharing)<br/>
   2022.05.23, 182nd Meeting of the Acoustical Society of America,
   Denver, Co, USA
