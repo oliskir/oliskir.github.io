@@ -98,6 +98,10 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* [Uncrewed surface vehicles as a platform for marine mammal monitoring](https://docs.google.com/presentation/d/1jq4qyO1UenYBVzFxZGuHDu1aLtszDzTT07aux_fnUK4/edit?usp=sharing)<br/>
+  2022.11.03, Workshop: Machine Learning Advances for Marine Acoustics and Imagery Data,
+  Ocean Networks Canada & MERIDIAN
+
 * [Deep Learning for Marine Bioacoustics - A Practitioner's Perspective](https://docs.google.com/presentation/d/1l5RL-bqg_rNjjhKKh_g8lk2E01Rmyb3six3yT18WjZo/edit?usp=sharing)<br/>
   2022.08.31, Workshop: Towards Predicting Whale Movement,
   Simon Fraser University, Vancouver, BC, Canada
