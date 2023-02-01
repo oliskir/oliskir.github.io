@@ -100,7 +100,8 @@ Your browser does not support the audio element.
 
 * [Whale Watching with Robots](https://docs.google.com/presentation/d/1aqrs7rr5GMxQxzFxVkNceoK4GzdpXvCz2UqIllQJMAI/edit?usp=sharing)<br/>
   2023.01.31, ONC Lunch Seminar,
-  Victoria, BC, Canada
+  Victoria, BC, Canada<br/>
+  [Video recording](https://youtu.be/42WI6iIP-V8)
 
 * [Uncrewed surface vehicles as a platform for marine mammal monitoring](https://docs.google.com/presentation/d/1jq4qyO1UenYBVzFxZGuHDu1aLtszDzTT07aux_fnUK4/edit?usp=sharing)<br/>
   2022.11.03, Workshop: Machine Learning Advances for Marine Acoustics and Imagery Data,
