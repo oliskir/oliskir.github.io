@@ -38,6 +38,8 @@ On my [github page](https://github.com/oliskir) you will find a few personal cod
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
 Below, is a selection of recent or noteworthy papers.
 
+* B. Padovese, O. S. Kirsebom, et al., [Adapting deep learning models to new acoustic environments - A case study on the North Atlantic right whale upcall](https://www.sciencedirect.com/science/article/pii/S157495412300198X?dgcid=coauthor), Ecological Informatics 77, 102169 (2023)
+
 * S. Medisetty, et al., [Identification of periodic fish tags with deep learning]({{ site.baseurl }}/assets/pdf/JoT_Oct2021.pdf), The Journal of Ocean Technology 16, 134-149 (2021)
 
 * M. J. Rider, O. S. Kirsebom, et al., [Space use patterns of sharks in relation to boat activity in an urbanized coastal waterway]({{ site.baseurl }}/assets/pdf/rider2021.pdf), Marine Environmental Research 172, 105489 (2021)
