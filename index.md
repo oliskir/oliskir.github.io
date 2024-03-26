@@ -59,6 +59,8 @@ Below, is a selection of recent or noteworthy papers.
 
 # [](#header-1) Feature articles and media coverage
 
+ * Interviewed for [Diving in Data: How AI Could Help Save the Whales](https://pinnguaq.com/stories/diving-in-data/) published on Pinnguaq's website on 5 November 2021
+
  * Oliver Kirsebom et al., [Advancing Acoustic Fish Tracking with Deep Learning]({{ site.baseurl }}/assets/pdf/JoT_July2021.pdf), The Journal of Ocean Technology 16, No. 2, 124-125 (2021)
 
  * [Researchers aim to use artificial intelligence to save endangered whales in B.C.](https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c), Vancouver Sun, 13 December 2020
