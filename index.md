@@ -59,13 +59,15 @@ Below, is a selection of recent or noteworthy papers.
 
 # [](#header-1) Feature articles and media coverage
 
+ * Oliver White, Oliver S. Kirsebom, et al., [Object Tracking for Uncrewed Surface Vehicles]({{ site.baseurl }}/assets/pdf/JoT_June2024.pdf), The Journal of Ocean Technology 19, No. 2, 104-106 (2024)
+
  * Interviewed for [Diving in Data: How AI Could Help Save the Whales](https://pinnguaq.com/stories/diving-in-data/) published on Pinnguaq's website on 5 November 2021
 
- * Oliver Kirsebom et al., [Advancing Acoustic Fish Tracking with Deep Learning]({{ site.baseurl }}/assets/pdf/JoT_July2021.pdf), The Journal of Ocean Technology 16, No. 2, 124-125 (2021)
+ * Oliver S. Kirsebom, et al., [Advancing Acoustic Fish Tracking with Deep Learning]({{ site.baseurl }}/assets/pdf/JoT_July2021.pdf), The Journal of Ocean Technology 16, No. 2, 124-125 (2021)
 
  * [Researchers aim to use artificial intelligence to save endangered whales in B.C.](https://vancouversun.com/news/local-news/researchers-aim-to-use-artificial-intelligence-to-save-endangered-whales-in-b-c), Vancouver Sun, 13 December 2020
 
- * Fabio Frazao, Oliver Kirsebom, et al., [Embedded Deep Learning for Underwater Acoustics]({{ site.baseurl }}/assets/pdf/JOT2020.pdf), The Journal of Ocean Technology 15, No. 3, 174-175 (2020)
+ * Fabio Frazao, Oliver S. Kirsebom, et al., [Embedded Deep Learning for Underwater Acoustics]({{ site.baseurl }}/assets/pdf/JOT2020.pdf), The Journal of Ocean Technology 15, No. 3, 174-175 (2020)
 
  * O. S. Kirsebom, [At eksplodere eller at implodere?]({{ site.baseurl }}/assets/pdf/AN4-2020-kernefysik-og-stjerner.pdf), Aktuel Naturvidenskab nr. 4-2020
 
