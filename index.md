@@ -104,6 +104,11 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* Monitoring our oceans and collecting ocean data with uncrewed surface vehicles<br/>
+  2024.06.14, IOS Seminar,
+  Institute of Ocean Sciences, Sidney, BC, Canada<br/>
+  Watch the presentation: [video](https://drive.google.com/file/d/1M4YTvwSxsiWzmwpBFmtjWuDWftTcqBck/view?usp=sharing)
+
 * [Whale Watching with Robots](https://docs.google.com/presentation/d/1aqrs7rr5GMxQxzFxVkNceoK4GzdpXvCz2UqIllQJMAI/edit?usp=sharing)<br/>
   2023.01.31, ONC Lunch Seminar,
   Victoria, BC, Canada<br/>
