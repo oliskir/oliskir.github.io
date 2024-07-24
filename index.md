@@ -6,7 +6,7 @@ layout: default
 
 Oliver Sølund Kirsebom<br/>
 PhD Physics<br/>
-Lead Data Scientist at [Open Ocean Robotics](https://openoceanrobotics.com/) and Adjunct Professor in the Faculty of Computer Science at Dalhousie University<br/>
+Senior Data Scientist at [Open Ocean Robotics](https://openoceanrobotics.com/) and Adjunct Professor in the Faculty of Computer Science at Dalhousie University<br/>
 [Academic CV]({{ site.baseurl }}/assets/pdf/cv.pdf)<br/>
 LinkedIn: [linkedin.com/in/okayphysics](https://www.linkedin.com/in/okayphysics/)<br/>
 ORCID ID: [0000-0001-5843-7465](https://orcid.org/0000-0001-5843-7465)<br/>
@@ -18,7 +18,7 @@ code: [github.com/oliskir](https://github.com/oliskir)
 
 # [](#header-1) Bio
 
-I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade, I was a frequent visitor at particle accelerator laboratories such as CERN in Switzerland, performing experiments to advance our understanding of the nuclear astrophysical processes that have shaped our Universe. Nowadays, however, my focus has shifted to a more applied realm. As the Lead Data Scientist at [Open Ocean Robotics](https://openoceanrobotics.com), I help making sense of a wide range of ocean sensor data collected by unmanned surface vessels, building data analysis pipelines, for example, automating the detection and classification of marine mammal vocalisations. I am also actively involved in the [HALLO](https://orca.research.sfu.ca/) research project and a member of [ONC's Ocean Observatory Council](https://www.oceannetworks.ca/about-onc/boards-and-council/ocean-observatory-council/) and the NoiseTracker Technical Committee.
+I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade, I was a frequent visitor at particle accelerator laboratories such as CERN in Switzerland, performing experiments to advance our understanding of the nuclear astrophysical processes that have shaped our Universe. Nowadays, however, my focus has shifted to a more applied realm. As Senior Data Scientist at [Open Ocean Robotics](https://openoceanrobotics.com), I help making sense of a wide range of ocean sensor data collected by unmanned surface vessels, building data analysis pipelines, for example, automating the detection and classification of marine mammal vocalisations. I am also actively involved in the [HALLO](https://orca.research.sfu.ca/) research project and a member of [ONC's Ocean Observatory Council](https://www.oceannetworks.ca/about-onc/boards-and-council/ocean-observatory-council/) and the NoiseTracker Technical Committee.
 
 On this page you will find an overview of my scientific contributions, which include open-source software, research papers, feature articles & media coverage, and presentations given at various conferences and workshops. 
 
