@@ -25,9 +25,15 @@ On this page you will find an overview of my scientific contributions, which inc
 
 # [](#header-1) Software
 
-I am currently the lead developer on two open-source Python packages: [ketos](https://docs.meridian.cs.dal.ca/ketos/), which helps you develop deep learning models for analyzing underwater sound (for example, detecting whale calls), and [kadlu](https://docs.meridian.cs.dal.ca/kadlu/), which provides tools for modelling underwater sound propagation.
+I am currently maintaining and developing a small set of Python packages for underwater acoustics,
 
-I have also developed a fair amount of specialized code in C++ and Fortran for analyzing nuclear-physics data and simulating various atomic and nuclear processes. Some of this code is publicly available ([simX](https://zenodo.org/record/1320121#%23.XVMEl3VKhhE), [Open R-matrix](https://zenodo.org/record/1174079#%23.XVMEr3VKhhE), [DCAP](https://gitlab.au.dk/ausa/oliskir/dcap), [VeikonKone](https://gitlab.au.dk/ausa/oliskir/veikonkone), [bedepe](https://gitlab.au.dk/ausa/oliskir/bedepe)), but the majority remains behind locked doors on the code repository of my old research group in Aarhus. 
+* [ketos](https://docs.meridian.cs.dal.ca/ketos/): detection and classification of underwater sounds with deep neural networks.
+
+* [kadlu](https://meridian-analytics.github.io/kadlu/): modelling of underwater sound propagation.
+
+* [korus](https://meridian-analytics.github.io/korus/): management of annotated acoustic data.
+
+In the past, I have also developed a fair amount of specialized code in C++ and Fortran for analyzing nuclear-physics data and simulating various atomic and nuclear processes. Some of this code is publicly available ([simX](https://zenodo.org/record/1320121#%23.XVMEl3VKhhE), [Open R-matrix](https://zenodo.org/record/1174079#%23.XVMEr3VKhhE), [DCAP](https://gitlab.au.dk/ausa/oliskir/dcap), [VeikonKone](https://gitlab.au.dk/ausa/oliskir/veikonkone), [bedepe](https://gitlab.au.dk/ausa/oliskir/bedepe)), but the majority remains behind locked doors on the code repository of my old research group in Aarhus. 
 
 On my [github page](https://github.com/oliskir) you will find a few personal coding projects including numerical solutions to the time-dependent and time-independent Schrodinger equations implemented in Python.
 
@@ -58,6 +64,8 @@ Below, is a selection of recent or noteworthy papers.
 
 
 # [](#header-1) Feature articles and media coverage
+
+ * Oliver S. Kirsebom and Sebastian Deggan, [Wave Sensor on the Go]({{ site.baseurl }}/assets/pdf/JoT_June2025.pdf), The Journal of Ocean Technology 20, No. 2, 144-145 (2025)
 
  * Oliver White, Oliver S. Kirsebom, et al., [Object Tracking for Uncrewed Surface Vehicles]({{ site.baseurl }}/assets/pdf/JoT_June2024.pdf), The Journal of Ocean Technology 19, No. 2, 104-106 (2024)
 
