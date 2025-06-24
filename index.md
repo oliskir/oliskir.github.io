@@ -112,6 +112,10 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* [Open Ocean Robotics]({{ site.baseurl }}/assets/pdf/OKirsebom_PONE_20250624_v2.pdf)<br/>
+  2025.06.24, P-ONE General Meeting 2025,
+  Simon Fraser University, Vancouver, BC, Canada<br/>
+
 * Monitoring our oceans and collecting ocean data with uncrewed surface vehicles<br/>
   2024.06.14, IOS Seminar,
   Institute of Ocean Sciences, Sidney, BC, Canada<br/>
