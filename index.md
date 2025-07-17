@@ -114,6 +114,10 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* [Uncrewed surface vehicles - new opportunities for data collection and environmental monitoring in the Salish Sea]({{ site.baseurl }}/assets/pdf/OKirsebom_ONC_20250716.pdf )<br/>
+  2025.07.16, VENUS/Salish Sea Workshop, Ocean Networks Canada, 
+  Victoria, BC, Canada
+
 * [Open Ocean Robotics]({{ site.baseurl }}/assets/pdf/OKirsebom_PONE_20250624_v2.pdf)<br/>
   2025.06.24, P-ONE General Meeting 2025,
   Simon Fraser University, Vancouver, BC, Canada<br/>
