@@ -44,7 +44,10 @@ On my [github page](https://github.com/oliskir) you will find a few personal cod
 I do my best to keep my [ORCID profile](https://orcid.org/0000-0001-5843-7465) up to date, and I also have a [Google Scholar profile](https://scholar.google.ca/citations?user=tIazdcoAAAAJ&hl=en) that Google kindly keeps up to date for me. 
 Below, is a selection of recent or noteworthy papers.
 
-* K. J. Palmer et al., [A Public Dataset of Annotated Orcinus orca Acoustic Signals for Detection and Ecotype Classification](https://doi.org/10.1038/s41597-025-05281-5), Scientific Data 12, 1137 (2025)
+
+* R. A. S. Gehrmann, O. S. Kirsebom, et al., [North Atlantic right whale detection and localisation using deep learning, spectrogram cross-correlation, and nonlinear Bayesian inversion](https://pubs.aip.org/asa/jasa/article-abstract/159/3/2123/3383213/North-Atlantic-right-whale-detection-and?redirectedFrom=fulltext), The Journal of the Acoustical Society of America 159, 2123–2138 (2026); [article]({{ site.baseurl }}/assets/pdf/gehrmann2026.pdf)
+
+* K. J. Palmer, et al., [A Public Dataset of Annotated Orcinus orca Acoustic Signals for Detection and Ecotype Classification](https://doi.org/10.1038/s41597-025-05281-5), Scientific Data 12, 1137 (2025)
 
 * B. Padovese, O. S. Kirsebom, et al., [Adapting deep learning models to new acoustic environments - A case study on the North Atlantic right whale upcall](https://www.sciencedirect.com/science/article/pii/S157495412300198X?dgcid=coauthor), Ecological Informatics 77, 102169 (2023)
 
