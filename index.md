@@ -117,9 +117,13 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
+* [Listening underwater with deep neural networks: Ketos & MAIPL<br/>
+  2026.03.24, DRDC Discussion Series](),
+  DRDC Atlantic, Dartmouth, NS, Canada<br/>
+
 * [Uncrewed surface vehicles - new opportunities for data collection and environmental monitoring in the Salish Sea]({{ site.baseurl }}/assets/pdf/OKirsebom_ONC_20250716.pdf )<br/>
   2025.07.16, VENUS/Salish Sea Workshop, Ocean Networks Canada, 
-  Victoria, BC, Canada
+  Victoria, BC, Canada<br/>
 
 * [Open Ocean Robotics]({{ site.baseurl }}/assets/pdf/OKirsebom_PONE_20250624_v2.pdf)<br/>
   2025.06.24, P-ONE General Meeting 2025,
