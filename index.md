@@ -118,7 +118,7 @@ Your browser does not support the audio element.
 # [](#header-1) Presentations
 
 * [Listening underwater with deep neural networks: Ketos & MAIPL<br/>
-  2026.03.24, DRDC Discussion Series](),
+  2026.03.24, DRDC Discussion Series](https://docs.google.com/presentation/d/1EBHHuarrnTUZrvV8tQbJ7ps0Utyy2QrT2wUxEwZ_FGA/edit?usp=sharing),
   DRDC Atlantic, Dartmouth, NS, Canada<br/>
 
 * [Uncrewed surface vehicles - new opportunities for data collection and environmental monitoring in the Salish Sea]({{ site.baseurl }}/assets/pdf/OKirsebom_ONC_20250716.pdf )<br/>
