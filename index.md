@@ -121,8 +121,14 @@ Your browser does not support the audio element.
   2026.03.24, DRDC Discussion Series](https://docs.google.com/presentation/d/1EBHHuarrnTUZrvV8tQbJ7ps0Utyy2QrT2wUxEwZ_FGA/edit?usp=sharing),
   DRDC Atlantic, Dartmouth, NS, Canada<br/>
 
-* [Uncrewed surface vehicles - new opportunities for data collection and environmental monitoring in the Salish Sea]({{ site.baseurl }}/assets/pdf/OKirsebom_ONC_20250716.pdf )<br/>
+* [Uncrewed surface vehicles - new opportunities for data collection and environmental monitoring in the Salish Sea]({{ site.baseurl }}/assets/pdf/OKirsebom_ONC_20250716.pdf)<br/>
   2025.07.16, VENUS/Salish Sea Workshop, Ocean Networks Canada, 
+  Victoria, BC, Canada<br/>
+
+assets/pdf/okirsebom_korus_20260123.pdf
+
+* [Managing annotated acoustic data with Korus]({{ site.baseurl }}/assets/pdf/okirsebom_korus_20260123.pdf)<br/>
+  2026.01.23, HALLO/WHALES Collaboration Meeting, 
   Victoria, BC, Canada<br/>
 
 * [Open Ocean Robotics]({{ site.baseurl }}/assets/pdf/OKirsebom_PONE_20250624_v2.pdf)<br/>
