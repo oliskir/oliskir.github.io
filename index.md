@@ -125,8 +125,6 @@ Your browser does not support the audio element.
   2025.07.16, VENUS/Salish Sea Workshop, Ocean Networks Canada, 
   Victoria, BC, Canada<br/>
 
-assets/pdf/okirsebom_korus_20260123.pdf
-
 * [Managing annotated acoustic data with Korus]({{ site.baseurl }}/assets/pdf/okirsebom_korus_20260123.pdf)<br/>
   2026.01.23, HALLO/WHALES Collaboration Meeting, 
   Victoria, BC, Canada<br/>
