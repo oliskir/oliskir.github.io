@@ -18,7 +18,7 @@ code: [github.com/oliskir](https://github.com/oliskir)
 
 # [](#header-1) Bio
 
-I have a PhD in nuclear physics from Aarhus University, Denmark. For more than a decade, I was a frequent visitor at particle accelerator laboratories such as CERN in Switzerland, performing experiments to advance our understanding of the nuclear astrophysical processes that have shaped our Universe. Nowadays, however, my focus has shifted to a more applied realm. As Senior Data Scientist at [Open Ocean Robotics](https://openoceanrobotics.com), I help making sense of a wide range of ocean sensor data collected by unmanned surface vessels, building data analysis pipelines, for example, automating the detection and classification of marine mammal vocalisations. I am also actively involved in the [HALLO](https://orca.research.sfu.ca/) research project and a member of [ONC's Ocean Observatory Council](https://www.oceannetworks.ca/about-onc/boards-and-council/ocean-observatory-council/).
+I have a PhD in nuclear physics from Aarhus University, Denmark. For more than ten years, I was a frequent visitor at particle accelerator laboratories such as CERN in Switzerland, performing experiments to advance our understanding of the nuclear astrophysical processes that have shaped our Universe. Nowadays, however, my focus has shifted to a more applied realm. As Senior Data Scientist at [Open Ocean Robotics](https://openoceanrobotics.com), I help making sense of a wide range of ocean sensor data collected by uncrewed surface vessels, building data analysis pipelines, for example, automating the detection and classification of marine mammal vocalisations. I am also actively involved in the [HALLO](https://orca.research.sfu.ca/) research project and a member of [ONC's Ocean Observatory Council](https://www.oceannetworks.ca/about-onc/boards-and-council/ocean-observatory-council/).
 
 On this page you will find an overview of my scientific contributions, which include open-source software, research papers, feature articles & media coverage, and presentations given at various conferences and workshops. 
 
@@ -116,6 +116,10 @@ Your browser does not support the audio element.
 
 
 # [](#header-1) Presentations
+
+* [Whales, Robots & Nuclear Physics<br/>
+  2026.11.12, TRIUMF Colloquium](https://drive.google.com/file/d/14CW8MVKdKCJwBXuo41buopy7BEkOKy-_/view?usp=sharing),
+  UBC, Vancouver, BC, Canada<br/>
 
 * [Listening underwater with deep neural networks: Ketos & MAIPL<br/>
   2026.03.24, DRDC Discussion Series](https://docs.google.com/presentation/d/1EBHHuarrnTUZrvV8tQbJ7ps0Utyy2QrT2wUxEwZ_FGA/edit?usp=sharing),
