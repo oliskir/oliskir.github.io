@@ -117,12 +117,12 @@ Your browser does not support the audio element.
 
 # [](#header-1) Presentations
 
-* [Whales, Robots & Nuclear Physics<br/>
-  2026.11.12, TRIUMF Colloquium](https://drive.google.com/file/d/14CW8MVKdKCJwBXuo41buopy7BEkOKy-_/view?usp=sharing),
+* [Whales, Robots & Nuclear Physics](https://drive.google.com/file/d/14CW8MVKdKCJwBXuo41buopy7BEkOKy-_/view?usp=sharing)<br/>
+  2026.11.12, TRIUMF Colloquium,
   UBC, Vancouver, BC, Canada<br/>
 
-* [Listening underwater with deep neural networks: Ketos & MAIPL<br/>
-  2026.03.24, DRDC Discussion Series](https://docs.google.com/presentation/d/1EBHHuarrnTUZrvV8tQbJ7ps0Utyy2QrT2wUxEwZ_FGA/edit?usp=sharing),
+* [Listening underwater with deep neural networks: Ketos & MAIPL](https://docs.google.com/presentation/d/1EBHHuarrnTUZrvV8tQbJ7ps0Utyy2QrT2wUxEwZ_FGA/edit?usp=sharing)<br/>
+  2026.03.24, DRDC Discussion Series,
   DRDC Atlantic, Dartmouth, NS, Canada<br/>
 
 * [Uncrewed surface vehicles - new opportunities for data collection and environmental monitoring in the Salish Sea]({{ site.baseurl }}/assets/pdf/OKirsebom_ONC_20250716.pdf)<br/>
